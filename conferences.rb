@@ -34,4 +34,5 @@ names.each do |name|
     start_date += delta
 end
 
+client.close
 

@@ -70,3 +70,5 @@ conference_days.each do |conf|
     end
     #puts "afterdo"
 end
+
+client.close

@@ -44,3 +44,5 @@ puts "Generating clients..."
 
     names = male_names
 end   
+
+client.close

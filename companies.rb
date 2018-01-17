@@ -32,3 +32,5 @@ for i in 0...([names.length, additional.length].min) do
     client_id = client.execute("INSERT INTO clients (phone, apartment, building, fk_street_id, fk_city_id, fk_country_id, zip_code) VALUES ('#{additional[i]['[phone]']}', '#{Number.apartment}', '#{Number.building}', #{street_id}, #{city_id}, #{country_id}, '#{additional[i]['[zip]']}')").insert
     client.execute("INSERT INTO companies (client_id, name, TIN) VALUES (#{client_id}, '#{client.escape(names.sample.join(""))}', '#{additional[i]['[tin]']}' )").insert
 end
+
+client.close

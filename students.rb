@@ -22,3 +22,5 @@ people_ids.each do |id|
         
     client.execute("INSERT INTO student_ids (client_id, student_id_no) VALUES (#{id['client_id']}, '#{no}' )").insert
 end
+
+client.close

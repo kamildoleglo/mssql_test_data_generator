@@ -17,3 +17,5 @@ puts "Generating company employees..."
 company_clients_ids.each_with_index do |person_id, index|
     client.execute("INSERT INTO company_clients (employee_client_id, fk_company_client_id) VALUES (#{person_id}, #{companies_ids[index % companies]} )")
 end
+
+client.close

@@ -30,3 +30,5 @@ conference_day_ids.each do |id|
         client.execute("INSERT INTO workshop_entities (start_time, end_time, fk_conference_day_id, fk_workshop_id) VALUES ('#{start_time}', '#{end_time}', #{id}, #{workshop_ids.sample})").insert
     end
 end
+
+client.close
