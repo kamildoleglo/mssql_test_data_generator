@@ -1,0 +1,721 @@
+[name];[surname];[birthdate];[phone];[street];[city];[region];[zip]
+Kasper;Zygora;30.09.2003;731698870;ul. Miodowa;Tarnowskie Góry;œl¹skie;10-220
+Godzimierz;£adzikowski;13.07.1993;919361766;ul. Milionowa;Domaradz;pomorskie;09-230
+Miron;Kurdiej;06.02.1988;364805997;ul. Kochanowskiego Jana;Nowe Olszyny;œwiêtokrzyskie;85-346
+Dobiemir;Czupryjanczyk;11.04.1995;849873661;ul. Kwiatkowskiego Eugeniusza;Gutki;podkarpackie;32-071
+Gebhard;Kazenas;09.08.1953;748715205;ul. Che³mska;Romanówka;ma³opolskie;84-210
+Cyrus;Szywio³a;25.05.2006;170001953;ul. Planetarna;Justynów;zachodniopomorskie;07-410
+Frydolin;Skirycz;13.10.2011;295976328;ul. Metalowa;Nysa;ma³opolskie;18-204
+Otton;Pietzel;13.12.1994;475108241;ul. Mroczna;Trzebieszowice;warmiñsko-mazurskie;32-593
+Walter;Szulmajer;23.12.1992;522026521;ul. Wilcza;Gie³czyn;pomorskie;93-378
+Galezy;Wasiura;06.03.2010;256857667;ul. Andersa W³adys³awa (Genera³a W³adys³awa Andersa);Œwiêtoch³owice;podkarpackie;32-852
+Morzys³aw;Blautt;01.04.1994;218582179;ul. Radzymiñska;Bia³ystok;mazowieckie;40-748
+Sofroniusz;Jas³an;17.01.1997;815509841;ul. Zjednoczenia;S³owiki;mazowieckie;52-019
+Dobrogniew;Samosionek;03.04.2011;500592418;ul. Parczewskiego Bogus³awa;Glichów;dolnoœl¹skie;47-300
+Eustachiusz;Rachfalik;21.02.1950;801458737;ul. Derkacz Heleny;Kunice;mazowieckie;45-532
+Niegos³aw;Krzanak;04.05.1952;739906663;ul. Przemys³owa;Skórnice;opolskie;66-014
+Odo;Fojda;27.07.2012;656205019;ul. Barczewska;Poznañ;ma³opolskie;17-330
+Terencjusz;Majsakowski;08.12.1967;691053503;ul. Œliwkowa;Wojs³awice;mazowieckie;89-300
+Jaromir;D¹broski;28.09.1950;620179621;ul. Pi³sudskiego Józefa (Marsza³ka Józefa Pi³sudskiego);Sadlinki;œl¹skie;10-051
+Rygobert;Krysztoforski;02.06.1995;678482640;ul. Maszynowa;Dêbica;pomorskie;16-420
+Siecies³aw;Amszewska;12.08.1997;256335969;ul. Blokowa;I³awa;dolnoœl¹skie;42-165
+Irwin;Zaszewicz;30.03.2013;809216470;ul. Bystrzycka;P³ock;œl¹skie;61-216
+Norbert;Uhryñ;06.03.2007;922995483;ul. Parkingowa;Kraków;œl¹skie;42-609
+Honorat;Dzieszkowski;21.12.1983;839674040;ul. Banacha Stefana (Profesora Stefana Banacha);Œwinków;dolnoœl¹skie;40-654
+Reinhold;Schildt;26.01.1954;358322057;ul. Prudnicka;Wieszowa;pomorskie;07-306
+Roœcigniew;Skrechota;13.11.1996;676248559;ul. Abrahama Antoniego;Brz¹czowice;dolnoœl¹skie;05-652
+Mi³ogost;¯yrza;23.06.1957;557034456;ul. Tamaryszków;Ostro³êka;mazowieckie;58-100
+Atanazy;Golcowski;30.05.1970;126679264;ul. Julii;Kraków;opolskie;99-418
+Racis³aw;Ksienzarek;16.08.2014;413811996;ul. Sczanieckiej Emilii;Rudka Staroœciañska;mazowieckie;55-002
+Racis³aw;Masurowski;03.06.1991;272773754;ul. Kochanowskiego Jana;Strzeszewo;podkarpackie;16-503
+Strze¿ywoj;Szewdkowicz;25.12.1959;112544690;Al. Sybiraków;Grudzi¹dz;ma³opolskie;43-100
+Rufus;Knetsz;11.08.1989;861574008;ul. Moniuszki Stanis³awa;Górka;wielkopolskie;06-425
+Roch;Sklepkiewicz;24.04.1952;290778310;ul. Boya ¯eleñskiego Tadeusza;£ódŸ;ma³opolskie;88-230
+Niemir;Dragunowski;30.09.1970;680926908;ul. Balladyny;Chorzów;zachodniopomorskie;78-552
+Cieszymys³;Kormy³o;25.11.1973;777932336;ul. Ci¹gnikowa;Kielce;dolnoœl¹skie;42-229
+Arystarch;Rzepijewska;05.10.1988;243889561;ul. Ko³³¹taja Hugona;Wielichowo;ma³opolskie;80-300
+Sebastian;Puszczalski;12.02.1977;235719279;ul. Rynek;Obory;mazowieckie;22-244
+Przybyrad;Iwaniczak;22.09.1960;149330544;ul. Okopowa;Serwatki;lubelskie;24-160
+Artemon;Szt¹berski;26.05.1950;307296565;ul. M³odzie¿owa;Wronowo;œl¹skie;73-102
+Stronis³aw;Niemira-Adamczyk;13.05.1962;802833349;ul. Bellerta Józefa;Zabrze;ma³opolskie;47-253
+Klement;Kolator;07.02.2008;742104837;ul. Stalowa;Bia³ki;mazowieckie;11-612
+Benedykt;Pajtel;17.11.1982;991915622;ul. Szczerbca;Czechowice-Dziedzice;zachodniopomorskie;26-670
+Waldemar;Labiek;06.09.2008;239401830;ul. Lenartowicza Teofila;Zamczysko;œl¹skie;98-220
+Niezamys³;¯órañski;23.01.1999;612660557;ul. Tuszyñska;£ebieñ;lubelskie;26-900
+Witalis;Jabrzyñski;29.09.1975;949993153;ul. Szyprów;Olsztyn;dolnoœl¹skie;99-420
+Wrócimir;Sipok;24.02.2014;192949978;ul. Jaworowa;Legnica;³ódzkie;41-100
+Bazyliusz;Saachyra;23.11.2012;990492343;ul. Stroma;Warszawa;³ódzkie;41-100
+Krzesimir;Sawaryñski;04.07.2006;418107612;ul. Pó³nocna;Doziny;mazowieckie;15-522
+Czcirad;Mejk;15.11.2012;307097460;ul. Kalinowskiego Rafa³a (Œwiêtego Rafa³a Kalinowskiego);Siemianowice Œl¹skie;wielkopolskie;42-674
+Lucjusz;Kohót;21.03.1966;255631472;ul. Boczna;Katowice;podkarpackie;44-238
+Iwo;W³adys³awski;27.02.1987;248435878;ul. Kobierzycka;Bydgoszcz;podkarpackie;73-120
+Maksym;Presnarewicz;24.03.2014;336435018;ul. Korczaka Janusza;Brzyœcie;mazowieckie;26-612
+Justynian;Bielœ;24.08.1991;371204681;ul. Wileñska;Jeziory;podkarpackie;32-447
+Wrócimir;Troch;27.01.1962;957551033;ul. PrzyjaŸni;Tresta Rz¹dowa;dolnoœl¹skie;71-211
+Gawe³;Nadlicki;23.09.2003;329163709;ul. Obroñców Westerplatte;Czechowice-Dziedzice;mazowieckie;59-220
+Bogus³aw;Gazdajka;23.12.1977;832580779;ul. Kopalniana;Gdynia;œl¹skie;97-524
+Asenat;Taszczi;19.07.1992;269370508;ul. Osobna;Nysa;³ódzkie;34-400
+Chrystian;Lichacz;14.04.1982;246841224;ul. Towarowa;Nysa;ma³opolskie;78-411
+Afanazy;Gogulla;14.04.1951;645965604;ul. Rezedowa;Poznañ;dolnoœl¹skie;80-690
+Jazon;Spirke;25.09.2003;894341911;ul. Wyszyñskiego Stefana (Kardyna³a Stefana Wyszyñskiego);Polanów;mazowieckie;40-127
+Przemi³;Maryszak;30.04.1956;868513836;ul. Jesionowa;Gdañsk;mazowieckie;09-104
+Urlyk;Krzywo¿nia;04.12.2017;277900262;ul. Oleñki;Czarne Pustkowie;lubuskie;28-305
+Frumencjusz;W¹so¿nik;18.04.1963;644170090;ul. Lipowa;Chodorówka Nowa;kujawsko-pomorskie;30-308
+Uniemys³;Zawodowicz;30.05.2017;567357479;ul. Zwyciêstwa;Janikowo;œl¹skie;09-130
+Spirydion;Korhan;03.04.2001;606707107;ul. Przyrodnicza;Nowogard;œl¹skie;05-652
+Daniel;Leganowski;14.11.1969;220258900;ul. Kosynierów;Kundzicze;œl¹skie;81-645
+Liberat;Jarmo³owski;14.07.1989;527567476;ul. Tkacka;Zalec;lubelskie;66-627
+Czêstogniew;Krzysztonek;23.02.1988;688034172;ul. S³oneczna;Regu³y;kujawsko-pomorskie;85-359
+Horacy;Sztarkszwarc;29.12.1977;294594181;ul. Berenta Wac³awa;Kêdzierzyn-KoŸle;œwiêtokrzyskie;45-010
+Dad¹bog;Bia³s;02.02.1992;474231640;ul. Wyzwolenia;Nagórze;mazowieckie;41-300
+Izajasz;Orzañski;06.03.2002;391107938;ul. ¯ytnia;Wroc³aw;mazowieckie;07-300
+Piotr;Sodos;27.06.1957;633762064;ul. Wymarzona;Pruska Wielka;kujawsko-pomorskie;41-902
+Bogdan;Har³abus;30.07.1962;975651296;ul. Przybylaka W³adys³awa;Jaworzno;³ódzkie;99-220
+Beatus;Szeryñski;23.06.2002;734740305;ul. Spawaczy;Strzy¿ewo Koœcielne;³ódzkie;41-503
+Gaudencjusz;Markwica;07.02.1962;598737820;ul. Wiêckowskiego Stanis³awa (Pu³kownika Doktora Stanis³awa Wiêckowskiego);£ódŸ;œl¹skie;26-006
+Danisz;Stru¿ak;01.05.1980;539467147;ul. Plater Emilii;Raciechowice;mazowieckie;98-275
+Tymon;£opung;20.09.1980;492739303;ul. Morcinka Gustawa;Bytom;³ódzkie;23-302
+Diogenes;Brauling;09.10.1966;861263342;ul. Poprzeczna;K¹ty;warmiñsko-mazurskie;30-742
+Ksenofont;Oparcik;17.10.1968;501987049;ul. ¯ytnia;Kotlarka;œl¹skie;44-193
+Cyriak;Molsza;27.08.1966;128245467;ul. Maryewskiego Franciszka;Ostrów Mazowiecka;lubuskie;98-338
+Wilibald;Henryks;23.04.1975;571765467;ul. Wewnêtrzna;Hubale;pomorskie;31-560
+Budzigniew;Kapilenko;14.07.1953;953842460;ul. Parkowa;Wroc³aw;mazowieckie;85-689
+Bolebor;Prosu³a;11.01.1996;177445698;ul. Linneusza Karola;Brwinów;podlaskie;38-457
+Witalian;Eterman;01.11.1975;666860168;ul. Akacjowa;Warszawa;opolskie;20-352
+Magnus;Sisch;30.04.1951;730268800;ul. Kêdzierskiego Jana;Nowy Bia³ynin;pomorskie;23-310
+Kastor;Fiedoñczuk;15.02.2003;639018666;ul. Olgierda;Œwidnica;podkarpackie;33-210
+Czech;Chmurysiak;16.04.1961;479071227;ul. Morwowa;£ódŸ;podlaskie;60-279
+Kamil;Bragoszewski;28.02.2002;835134769;ul. Zgorzelecka;Sowia Wola Folwarczna;kujawsko-pomorskie;30-424
+Racis³aw;Kleszyk;16.04.1969;234998580;Pl. Pi³sudskiego Józefa (Marsza³ka Józefa Pi³sudskiego);Zabrze;œl¹skie;15-614
+Diogenes;Dziechciñski;14.02.1995;859477599;ul. Turowicza Jerzego;Bytom;mazowieckie;31-505
+Achacjusz;Smug;18.10.2009;798482140;ul. Skwierzyñska;Poznañ;mazowieckie;32-765
+Siemowit;Gorecko;29.01.2009;178838318;ul. Kossaka Wojciecha;Œwidry;mazowieckie;04-871
+Bronisz;Sudol;05.05.2002;135642664;ul. Koœciuszki Tadeusza (Genera³a Tadeusza Koœciuszki);Namys³ów;pomorskie;24-340
+Bernardyn;Zieba;06.05.1964;370475821;ul. Pliszki;Ostrówek;kujawsko-pomorskie;90-206
+Prochor;Szeremel;27.01.1952;199569157;ul. Wodna;Okup Ma³y;œwiêtokrzyskie;97-512
+Efrem;Bred³o;27.01.2012;619399731;ul. D³uga;Smugi;mazowieckie;61-608
+Gorzys³aw;Sembok;02.07.2013;428384414;ul. Partyzantów;Piekary Œl¹skie;podkarpackie;42-350
+Samuel;Gurbasz;20.10.1963;336536608;ul. Platynowa;Owsiszcze;ma³opolskie;64-820
+Jarope³k;Szurbatowska;22.07.2001;285030108;ul. Perlicza;Jastrzêbce;wielkopolskie;31-764
+Bronis³aw;Domorowska;28.12.1986;493130697;ul. Kochanowskiego Jana;Aleksandria;lubuskie;60-526
+Hermenegild;Siawrys;27.10.1997;684165446;ul. Roztocze;Wieprzyce;lubelskie;38-540
+Ageusz;Pietroczyniuk;01.10.1963;270827721;ul. Wujka Jakuba;Chorzów;wielkopolskie;62-860
+Balbin;Pilich;02.11.1950;489970257;ul. Parowcowa;Olsztyn;mazowieckie;41-300
+Przes³aw;Sachalska;16.05.1983;143518115;ul. Koœciuszki Tadeusza;Posada;mazowieckie;13-306
+Radzimir;Zahorodny;02.10.1981;702770616;ul. Kubiny Paw³a;Okonek;lubelskie;93-558
+Paulin;Pokról;04.09.1968;675825795;ul. ze Spychowa Juranda;Cieleœnica;lubelskie;16-113
+Mateusz;Spurzowska;24.05.2011;690393081;ul. Widokowa;Brzezie;ma³opolskie;17-200
+Cecyl;Ba³czyñski;13.11.1983;396023783;ul. Obroñców Pokoju;Rybnik;wielkopolskie;18-400
+Radziwoj;Grunerwald;06.12.1971;314287954;ul. Nakielska;Szyleny;³ódzkie;22-455
+Gwidon;Walcerczak;08.02.2013;386408650;ul. Targowa;Bydgoszcz;mazowieckie;77-420
+Roman;Jakuczañ;20.01.1978;411317339;ul. Kolendrowa;Boles³aw;œl¹skie;27-206
+Abraham;Merku³a;21.02.1978;455617734;ul. Wschodnia;Kraków;dolnoœl¹skie;93-645
+Wawrzyniec;Siemik;10.10.2004;876143248;Pl. Or³a Bia³ego;Mœciwojów;œl¹skie;62-320
+Sulis³aw;Holewata;01.02.2011;747534459;ul. Mickiewicza Adama;Wilczyce;œwiêtokrzyskie;83-041
+Faust;Kellner;02.08.1995;453632346;ul. Obwodowa;£ódŸ;œl¹skie;71-673
+Jordan;Mi³ogrodzki;02.04.1983;355415040;ul. Bratków;Sygneczów;mazowieckie;74-230
+Dytrych;Musalla;20.05.1975;240286355;ul. Krakowska;Poznañ;mazowieckie;03-977
+Œwiêtobor;Skital;30.08.1969;999698007;ul. Pocztowa;Je¿ewo;dolnoœl¹skie;09-440
+Mieszko;Gieresimiuk;27.06.1978;914225700;ul. Modliñska;Warszawa;œl¹skie;43-500
+Dan;Kielawiec;26.12.1953;476700703;ul. Perkuna;Bydgoszcz;pomorskie;80-680
+Dalebor;Cioñ;06.02.2008;263440208;ul. Zniczowa;Warszawa;wielkopolskie;57-200
+Malwin;Habzda;21.06.1950;833480933;ul. Opolska;Cumino;wielkopolskie;64-120
+Bonawentura;Czerwoñczuk;07.02.1999;602140107;ul. Klasztorna;Kurza;mazowieckie;11-041
+Broniwoj;Jahimczuk;13.09.1951;803085126;Pl. 1831 Roku;Kotomierz;dolnoœl¹skie;41-806
+Ninomys³;Surawiecka;09.09.1950;153249538;ul. Vincenta Van Gogha;Jaworzno;wielkopolskie;26-612
+Radowit;Gesikiewicz;21.11.1984;822158131;ul. Na Zrêbie;Siemianowice Œl¹skie;podlaskie;44-351
+Konstans;Perliñski;16.01.1994;131137118;ul. Ja³owcowa;Kamocka Wola;opolskie;19-100
+B³a¿ej;Fidler-Wieruszewski;13.08.1976;724716922;ul. Podtatrzañska;Zalesie;podkarpackie;25-825
+Czechasz;Skotarczek;27.07.1971;697105428;ul. 11 Listopada;Legionowo;podlaskie;86-300
+Ruprecht;Wiskulski;21.08.1981;364123154;ul. Odrodzenia;CzeladŸ;ma³opolskie;36-245
+Apolinary;Szczupliñski;17.04.1983;909272689;ul. Jod³owa;£ódŸ;pomorskie;66-330
+Otto;Kapkiewicz;23.05.1952;991658986;ul. Spó³dzielcza;Œwidnica;wielkopolskie;58-500
+Flawiusz;Rittler;28.12.1993;112009839;ul. Jaworskiej Genowefy;Zielona Góra;wielkopolskie;88-100
+Lutos³aw;Stromenger;14.06.2006;236591629;ul. Kossaków;Szyd³owiec;œl¹skie;40-217
+Alfons;Zatorowski;17.10.1952;396312173;ul. Œwierkowicka;Koz³ów;podlaskie;90-251
+Wac³aw;Brenianek;25.05.2017;726075294;ul. Bronikowskiego Ksawerego;Pi³ka;œl¹skie;36-230
+Fabian;Strenga;03.01.2018;879369934;ul. Hankówka;Kolbudy;mazowieckie;62-330
+Ruben;S³asz;01.09.1997;816195074;ul. Wczasowa;Stanis³awów;wielkopolskie;16-123
+Liwiusz;Chaniuk;13.07.1982;344315411;ul. Piaski;Bytom;œl¹skie;05-420
+Leodegar;Ryczon;17.02.1984;530993035;ul. Krañcowa;Gliwice;podkarpackie;07-300
+Naczes³aw;Sandera;01.01.1964;923947975;Grobla Opatowicka;Ochojno;mazowieckie;09-101
+Bratumi³;Sikora;10.01.2005;425000243;ul. Maczka Stanis³awa (Genera³a Stanis³awa Maczka);Kobierzyce;kujawsko-pomorskie;97-225
+£azarz;Gouzy;09.03.1995;962764850;ul. Pocztowa;Warszawa;wielkopolskie;41-800
+Wolfgang;Trynk;09.11.1988;729826729;ul. Kolejowa;Niechcice;pomorskie;87-515
+Ewaryst;Bryzgiel;25.12.1952;273347466;ul. Rynek;Gliwice;³ódzkie;41-923
+Benignus;Ruduœ;13.08.1993;304517492;ul. Kartuska;S³obódka;mazowieckie;80-846
+Jeremi;Kadyrko;03.08.1970;988564858;ul. Poziomkowa;Wroc³aw;mazowieckie;39-410
+Bo¿ys³aw;Zmyœny;02.11.2010;464688959;ul. Broniewskiego W³adys³awa;Rytwiany;warmiñsko-mazurskie;43-190
+Sêdzis³aw;Wyrobna;02.04.1997;755514062;ul. Jemio³owa;Drzeñsko;dolnoœl¹skie;28-363
+Arnolf;Magerle;10.10.1961;740941684;ul. Niemcewicza Juliana Ursyna;Miedzianka;œl¹skie;75-724
+Fabian;Kopanajko;05.07.1971;553123637;ul. Przerwy Tetmajera Kazimierza;Niecki;wielkopolskie;91-811
+Kanizjusz;Bondkowski;28.03.2008;844020739;ul. Krasickiego Janka;Kraków;œwiêtokrzyskie;14-100
+Urban;Saus;28.02.2017;302510024;ul. 22 Lipca;Mszczonów;œl¹skie;34-452
+Berno;Szanci³o;08.01.1989;314892262;ul. Dwernickiego Józefa (Genera³a Józefa Dwernickiego);Warszawa;dolnoœl¹skie;74-305
+Dziers³aw;Ko³êtowska;14.06.1965;964389653;ul. Cieszyñskiego Antoniego;Wroc³aw;mazowieckie;41-205
+Dan;Krzywosadzki;29.10.2017;830174281;ul. Poloniusza;Bordzi³ówka;ma³opolskie;61-614
+Serwacy;Fiedurski;25.06.2001;792620494;ul. Dzierzkowska;Paw³osiów;warmiñsko-mazurskie;73-110
+Niegomir;Ewiuk;26.05.1953;236840503;ul. Wakacyjna;Gdañsk;œl¹skie;41-800
+Ders³aw;Chyboczyñska;25.04.1984;881757297;ul. Wrzosowa;Kielce;³ódzkie;11-220
+Cezariusz;Pichnej;21.12.2007;991399197;ul. Parkowa;Zalesiaki-Pieñki;œl¹skie;45-552
+Daros³aw;Fronczik;02.06.1982;182786132;ul. Ga³czyñskiego Konstantego Ildefonsa;Bydgoszcz;zachodniopomorskie;01-860
+Stronis³aw;Ba³dy;25.09.1988;480478035;ul. Komunalna;Pietrzyków;dolnoœl¹skie;11-606
+Wiêcemi³;Awiota;01.02.1979;420030724;ul. Tarnowska;Miedzichowo;kujawsko-pomorskie;21-532
+Chryzostom;Czyza;03.01.1962;843858238;ul. Ziemowita;Chwalêcin;lubuskie;98-300
+Spycimir;Char³ampowicz;08.05.2009;842981816;ul. Stalmacha Paw³a;Pruszcz Gdañski;dolnoœl¹skie;78-540
+Martynin;Hwastarz;15.10.1977;589585445;ul. Knosa³y Ryszarda;Kozieg³ówki;opolskie;22-455
+Wiaczes³aw;Kamerling;12.06.1992;568706107;ul. Klonowa;Kraków;lubelskie;22-463
+S¹dzimir;Matczyna;24.11.2005;966566597;ul. Arnsztajnowej Franciszki;Przytocznica;zachodniopomorskie;41-500
+Bo¿ydar;Kienic;20.08.1990;458997647;ul. Broniewskiego W³adys³awa;¯uków;podkarpackie;41-500
+Donat;Burzuchowska;16.09.2007;328874694;ul. Powstanców Warszawy;Bia³ka;lubuskie;05-075
+Probus;Kmieniorz;21.04.1990;129427070;ul. Kiliñskiego Jana;Glinno;pomorskie;60-309
+Miros³aw;Dobruch;21.02.1994;139686084;ul. Mickiewicza Adama;Gdañsk;pomorskie;95-054
+Jacek;Brzeczniak;26.10.2003;503401242;ul. Lentza Stanis³awa;Barwice;podlaskie;30-389
+Metody;Zubertowicz;03.02.1956;862881201;ul. Parkowa;Jelenia Góra;œl¹skie;59-101
+Goœciwit;Stryjanowska;16.08.1952;938489255;ul. Ch³odna;Stoczek;lubelskie;87-712
+Zacheusz;Majzerowicz;30.05.1996;904887465;ul. Nowy Rynek;Meszki;kujawsko-pomorskie;61-120
+Kacper;Sietejko;13.11.2017;133718295;ul. Jêdrzejowska;£ózki;mazowieckie;80-175
+Krystian;Rumelski;01.05.1999;147314917;Pl. Spiski;Szczecin;opolskie;45-090
+Leodegar;Falbe;28.09.1995;805907873;ul. Zaj¹czka Józefa (Genera³a Józefa Zaj¹czka);Mariew;zachodniopomorskie;03-381
+Tobiasz;Birówka;21.10.1980;183395278;ul. Or³owskiego Aleksandra;Mostki;œl¹skie;67-100
+Sylwin;Pruhs;01.05.1992;665569841;ul. Wysoka;Tarnowskie Góry;zachodniopomorskie;62-035
+Charyzjusz;Fonseca;19.04.2008;625674088;ul. Forsycjowa;Chorzów;podkarpackie;21-140
+Otomar;Hafka;19.08.2002;431755528;ul. Morcinka Gustawa;Królikowo;mazowieckie;21-100
+Natalis;OdrzygoŸdŸ;13.11.1967;626240588;ul. Rezedowa;Siemi¹tkowo-Rechty;mazowieckie;61-070
+Marcjan;Kisielew;10.12.1962;813747895;ul. Nowa;Napole;warmiñsko-mazurskie;73-210
+Jazon;Potuszek;31.05.1950;693704258;ul. Groniczek;Cierpigórz;warmiñsko-mazurskie;28-225
+Borzymir;Chraœnik;10.05.2013;309280517;ul. Gocza³kowicka;Zabrze;mazowieckie;05-075
+Tolimir;Golinkiewicz;21.12.1989;761484147;ul. Zielone Wzgórze;Koszalin;ma³opolskie;82-410
+Symeon;Zielasiñska;11.02.2005;534733999;ul. Katedralna;Rybnik;œl¹skie;53-614
+Wszemir;Drza¿dzyñski;24.08.1991;367607525;ul. Czechowicka;Czarnia Ma³a;kujawsko-pomorskie;44-240
+Mieczys³aw;Mawer;23.09.1977;319537074;ul. Niesulicka;Sulejówek;mazowieckie;00-825
+Erwin;Przyszczepa;21.01.1997;107883372;ul. Bogus³awskiego Wojciecha;W³oc³awek;pomorskie;06-114
+Wojbor;Ciompel;20.11.1999;488809824;ul. Do Studzienki;KuŸniki;wielkopolskie;66-601
+Iwo;Arcemew;14.09.2012;506228491;ul. Deotymy;Gdynia;podkarpackie;62-097
+S³awobor;Klinczbor;08.09.1970;393527696;ul. Kawaleryjska;Kraków;wielkopolskie;18-220
+Boromeusz;Motorkow;21.01.1966;196237256;ul. Planty;Wola Rêbkowska;pomorskie;60-193
+Antonin;Czyszczon;21.04.2011;687165675;ul. Klasyczna;Herby;podkarpackie;81-003
+Strze¿ys³aw;Nowogórski;26.10.1986;153650091;ul. ¯abik;Mroczki-Rêbiszewo;zachodniopomorskie;87-702
+Justyn;Œciebura;07.04.1974;818658317;ul. Kolberga Oskara;Piszkawa;pomorskie;98-405
+Dzier¿ys³aw;Asamowicz;15.07.2008;441663077;ul. 1 Sierpnia;Warszawa;œl¹skie;08-500
+Cieszyrad;Bujel;30.06.2016;639438313;ul. Czêstochowska;Kraków;wielkopolskie;06-406
+Bohdan;Kopaniarski;21.01.1988;832745403;ul. Kopernika Miko³aja;Zagajewiczki;mazowieckie;19-335
+Rufin;Moœcichowski;01.07.1955;452300862;ul. Konarskiego Stanis³awa;G³uche;kujawsko-pomorskie;18-400
+£azarz;Liese;19.11.2016;679897194;ul. Olszewskiego Karola;Szumowo;mazowieckie;30-198
+Jêdrzej;Senka³owski;24.02.1951;772773838;ul. Boczna;W³oœciborek;opolskie;64-710
+Goœcimir;Gagalon;25.05.1994;742895687;ul. Zachodnia;Zdrójno;mazowieckie;23-100
+Lutomys³;Jauszko;05.10.1985;988888244;ul. Wrzosowa;Topola;œl¹skie;62-130
+Wawrzyn;Pêpa;23.04.2008;849267413;Al. Jana Paw³a II;Pierzcha³y;opolskie;08-320
+Sozant;Hadaszczak;07.10.2014;926899125;ul. Zniczowa;Gliwice;œl¹skie;83-120
+Wiêcemi³;Ozirof;18.05.1959;290066848;ul. Zacisze;Sosnowiec;lubuskie;12-250
+Prochor;Kurtas;10.02.2011;263761349;ul. Gajowa;¯d¿ar;œwiêtokrzyskie;06-210
+Pius;Ciarton;19.12.2017;142362558;ul. Kar³owicza Mieczys³awa;Plecka D¹browa;mazowieckie;48-300
+Lubos³aw;Piêkeœ;13.10.1977;365934461;ul. Jazgarzewska;Warszawa;dolnoœl¹skie;35-216
+Œcibor;Kurtis;04.09.2006;747124440;ul. Falista;Œmiadowo;ma³opolskie;44-238
+Kiejstut;Ba³andy³owicz;23.12.1952;679743441;ul. W³ókiennicza;Szczecin;kujawsko-pomorskie;46-200
+Warcis³aw;Sus³ow;27.08.1996;451103474;ul. Marusarzówny Heleny;Siemianowice Œl¹skie;lubuskie;07-303
+Brunon;Daneberg;23.11.2003;558584094;ul. £utnia;Radom;podlaskie;60-177
+Protazy;Garduszak;24.02.1988;618207910;ul. Kruk;Stary Kisielin;podlaskie;02-886
+Niegos³aw;Skiwiot;06.01.2018;797021470;ul. Wa³y Jaworzyñskie;Koœcianki;zachodniopomorskie;11-440
+Magnus;Beksztan;21.08.2007;454657534;ul. Chrobrego Boles³awa;Suwa³ki;œl¹skie;41-208
+Walenty;Kupiczenska;08.11.1996;775379300;ul. Jeziorna;Niechorz;zachodniopomorskie;99-434
+Walery;Æwizinia;01.11.1983;430862418;ul. Ptasia;Szymbark;warmiñsko-mazurskie;26-110
+Bazylis;Fader;21.10.1955;987005564;ul. Relaksowa;Robczysko;œl¹skie;17-330
+Probus;Hemanowicz;06.09.2013;684315886;ul. Tarczyñska;Starzawa;mazowieckie;41-800
+Radociech;Holzhackier;21.04.1972;454292655;ul. Krasickiego Ignacego;Zielona Góra;mazowieckie;03-879
+Radomi³;Bia³omiejski;07.03.1987;623939284;ul. NiedŸwiedzia;S¹pólko;ma³opolskie;04-924
+Klaus;Rzepecki;19.10.1990;413417316;Pl. Klasztorny;Nowe Kamienice;podkarpackie;87-809
+Maur;Zachos;26.03.2001;301051906;ul. Têczowa;Mi³ogoszcz;mazowieckie;33-350
+Abdon;Litbarski;26.01.1986;608037627;ul. Piastowska;Podborcze;mazowieckie;40-748
+Niegos³aw;Rotengraber;26.09.1981;440751748;ul. Jana Paw³a II;Tarnina;podlaskie;15-594
+Gall;Pleskocz;30.05.1992;304960711;ul. Czeremchowa;Chrusty;warmiñsko-mazurskie;21-470
+Walter;Gur¿anowski;27.10.1985;216539757;ul. Przy Agorze;Mroczeñ;³ódzkie;63-040
+Mariusz;Klejnota;09.06.1999;774583272;ul. Pogodna;Krzywice;dolnoœl¹skie;97-512
+Gabin;Brzulacha;02.12.1968;110255027;ul. Grzegorzewskiej Marii;Karczowiska Górne;ma³opolskie;07-300
+Antoni;Brancew;24.10.1978;824527019;ul. Che³moñskiego Józefa;Kraków;dolnoœl¹skie;41-103
+Kanizjusz;Nawo³czyñski;04.04.1970;331865339;ul. Bielicowa;Zieleniewo;mazowieckie;09-402
+Bazyli;Gonsiewski;11.07.1953;727395913;ul. Skargi Piotra;Poœwiêtno;dolnoœl¹skie;38-307
+Lubomierz;K¹dziolka;23.01.1965;126126174;ul. Strefowa;Kraków;warmiñsko-mazurskie;95-073
+Herbert;Schwabl;27.04.2011;242992796;ul. Szczêœæ Bo¿e;Byszów;warmiñsko-mazurskie;09-230
+Godzis³aw;Kropownicki;15.12.2011;349712902;ul. Kar³owicza Mieczys³awa;Kalinówka Koœcielna;mazowieckie;09-230
+Priam;Puncewicz;25.10.2004;570033029;ul. Wyczó³kowskiego Leona;Bytom;ma³opolskie;77-405
+Broniwoj;Nossakowski;14.05.2003;430149591;ul. Gajowicka;Krotoszyn;lubuskie;15-453
+Radowit;Jóchnowicz;24.12.2010;526231787;ul. Warszawska;£apy;œl¹skie;07-130
+Siestrzewit;Chme³a;31.10.1965;493154420;ul. Wieñcowa;Poznañ;œl¹skie;85-319
+Lenart;Czekalski;23.03.1961;906456765;ul. Bieg³a;Szczecin;mazowieckie;60-175
+Cierpis³aw;Kurlenia;25.01.2000;532279375;ul. Sztuki Jana (Ksiêdza Jana Sztuki);Kupin;³ódzkie;85-435
+Brykcjusz;Pulwer;11.04.1973;321585858;ul. D³ugomi³a;Kraków;mazowieckie;61-408
+Rodryk;Kakitek;08.01.2015;387404853;Os. Rzeczypospolitej;Bia³usny Lasek;zachodniopomorskie;78-102
+Bo¿ymierz;Mia³kos;30.06.2008;977063568;ul. Warszawska;Kamieniec Z¹bkowicki;mazowieckie;40-059
+Jonatan;Delug;06.04.1967;398839532;ul. Krzywoustego Boles³awa;Gdañsk;ma³opolskie;38-200
+Herman;Fr¹skiewicz;11.03.1967;975999898;Pl. Miarki Karola;Przysiersk;wielkopolskie;41-218
+Olaf;Heitzman;03.04.1985;279187652;ul. Krucza;Czechowice-Dziedzice;mazowieckie;20-848
+Jaczewoj;Grzycki;13.09.2009;274856839;ul. Ma³kowskiego Andrzeja;Matejki;mazowieckie;43-252
+Leonid;Kopicki;10.07.1961;758645967;ul. Kosynierów;Oœwiêcim;podkarpackie;85-361
+Epifani;Kobilarz;25.05.1978;400377026;ul. Dolna;Ruda Œl¹ska;ma³opolskie;39-308
+Wiktorian;Mu¿y³o-Kury³owicz;27.08.1953;538517276;ul. Konopnickiej Marii;Bia³ystok;podkarpackie;31-344
+Teodozjusz;Stemperski;01.12.1982;648863299;ul. Literacka;S¹czów;podkarpackie;87-510
+Wespazjan;Presnal;05.03.2015;799457159;ul. Ibn Siny Awicenny;Chrostowo;mazowieckie;64-200
+Edward;Bortkiewicz;26.05.1990;291172821;Bulw. Nowowiejskiego Feliksa;Rzeszów;mazowieckie;43-190
+Jac³aw;Popielasty;18.02.2010;537721929;Pl. Zillingera Waldemara;Bia³ystok;wielkopolskie;60-688
+Leoncjusz;Wutzko;11.01.1980;941076201;Pl. Wolnoœci;Bydgoszcz;podkarpackie;00-169
+Wolmar;Kamierowski;31.07.1971;454185004;ul. Oczeretu;Ostro³êka;dolnoœl¹skie;10-535
+Wies³aw;Pawlik vel Pawlikowski;09.06.2013;432795972;ul. Zabielskiego Franciszka;Wierzchucino;lubelskie;97-524
+Spycis³aw;U¿dzi³o;17.11.1954;195523402;ul. Stawowa;£ukaszowice;mazowieckie;02-013
+¯elis³aw;Walisiñski;01.12.1995;968507638;ul. Sportowców;Ciechanów;podlaskie;05-622
+Eliasz;Frelczak;19.01.1960;694997744;ul. D¹browskiego Jaros³awa;Ko³obrzeg;wielkopolskie;91-054
+Strze¿ywoj;Skrzeczyñski;21.12.1956;572804404;ul. Ba³tycka;Rzêdowie;opolskie;42-436
+Wolimir;Wilnowski;29.04.2010;991908788;ul. Andersena Hansa Christiana;Ostrów Mazowiecka;mazowieckie;41-215
+Sergiusz;Senglerski;14.07.1950;463579784;ul. Oœwiêcimska;£ódŸ;œl¹skie;88-106
+Rajnold;Gorbaczynska;07.08.1989;536592862;ul. Murarzy;Sosnowiec;mazowieckie;35-104
+Strze¿ys³aw;Bylczyñski;18.07.1954;117887326;ul. Zacisze;Bia³ystok;warmiñsko-mazurskie;67-240
+W³adys³aw;Ciesañska;11.12.1999;832136766;ul. Klonowa;Brzozów;³ódzkie;49-306
+Rygobert;Gugul;10.01.1951;961963643;ul. Legionów;Wroc³aw;œl¹skie;99-210
+Sylwan;Straœko;05.10.2011;835465943;ul. £om¿yñska;£ódŸ;wielkopolskie;43-316
+Erhard;Klaczewska;13.09.1961;934772395;ul. Dubois Stanis³awa;Siedlêcin;podlaskie;43-378
+Job;Szweycer;15.11.1952;542799424;ul. Batalionu Parasol;£ódŸ;³ódzkie;19-100
+Flawiusz;Sambar;05.12.2004;942736189;ul. Rotundy;Grabnik;mazowieckie;39-450
+Ludomi³;Pietryman;02.01.2018;980531841;ul. Pusta;Nowiny;pomorskie;44-100
+Martyn;Horoszczewicz;27.07.1998;970235417;ul. Olsztyñska;Warszawa;mazowieckie;05-077
+Roland;Reydych;03.10.1956;471598539;ul. Unii Lubelskiej;Zawiercie;opolskie;50-311
+Chwalis³aw;Gajdosz;04.10.2002;115286501;ul. Mys³owicka;Brodki;opolskie;11-410
+Ksawery;Bed¿yk;24.07.1996;427546885;ul. Stara Droga;Kunice;³ódzkie;98-300
+Damaris;Zamach;25.05.1986;156189706;ul. Wandy;£ódŸ;kujawsko-pomorskie;05-400
+Hieronim;Gr¹bosz;12.11.2016;524033050;ul. £osiówka;£oskajmy;³ódzkie;18-214
+Zygmunt;Krinta;07.02.1980;431363836;ul. Skarbowców;Gnojnica;œl¹skie;05-123
+Zenon;Zamostny;20.05.1954;163039617;ul. Kwiatowa;Stawiska;podlaskie;05-280
+S³awosz;Tuwkowska;12.01.1956;309278037;ul. Krogulcza;Katowice;mazowieckie;43-607
+Hygin;Drajfer;20.02.1980;641657221;ul. Stara Maszyna;Kurowo-Parcele;podlaskie;32-830
+Agapit;Grzeloch;31.03.1954;959668303;ul. Kana³owa;I³ów;œl¹skie;37-403
+Ambro¿y;Boruniewicz;22.09.1958;385579020;ul. Ksiê¿ycowa;Dêbica;wielkopolskie;48-130
+Gaspar;Tur¿añski;20.11.1982;779661372;ul. Pustynna;Szropy;wielkopolskie;21-302
+Aleksander;Wroœ;18.11.1993;646208657;ul. Grochowska;Konopki-Awissa;kujawsko-pomorskie;65-383
+Brunon;Szawic;12.09.2005;128210337;ul. Olbrychta Tadeusza;Wy³udy;œl¹skie;58-300
+Budzis³aw;Friszwasser;28.02.1987;659376806;ul. Z³ocieniowa;P³ock;mazowieckie;90-312
+Anatol;Klibengajtis;04.12.1964;406117832;ul. Zwi¹zku Walki Zbrojnej;Gliwice;³ódzkie;64-010
+Hortensjusz;Gabryelów;18.12.1957;524748948;ul. G³ogowska;Nowy Komunin;kujawsko-pomorskie;34-142
+Eustachiusz;Penszkal;16.06.2016;639838530;ul. Zaœcianek;NiedŸwiedŸ;œwiêtokrzyskie;96-500
+Zygmunt;Kureius;14.10.1980;853813704;ul. Orzeszkowej Elizy;Pruszków;³ódzkie;81-536
+W³odzimierz;Starzamski;03.07.1970;530232021;ul. Mariacka;Rybnik;wielkopolskie;97-438
+Mamert;Perechubka;18.08.2002;434635769;ul. Wichrowa;Anielewo;mazowieckie;62-068
+Jakub;Smaliñski;15.02.1999;313171829;Os. Boles³awa Œmia³ego;Bukowiny;œl¹skie;96-521
+Mœcigniew;Eberlajn;15.04.1951;379886687;ul. Leœna;Poznañ;lubelskie;98-285
+Rufus;Finn;19.11.2003;424138682;ul. Arciszewskich;Ostro³êka;dolnoœl¹skie;20-816
+Bogus³aw;PrzewieŸlik;02.02.1984;183243681;ul. Prejsa Juliana;Szczecin;³ódzkie;32-600
+Dobrowiest;Korneli;25.03.1956;462929231;ul. Pistacjowa;¯agañ;œl¹skie;75-430
+Siemirad;Rachawa³;25.12.1973;555402030;ul. Fieldorfa Augusta Emila (Genera³a Augusta Emila Fieldorfa);Rzeczyca Okr¹g³a;zachodniopomorskie;42-100
+Bogus¹d;Kot vel £awecki;23.11.1970;980037557;ul. Zachodnia;Szufnarowa;warmiñsko-mazurskie;70-720
+Urlyk;Masa;15.06.1982;904834702;ul. Ostrobramska;Go³êbiewo;ma³opolskie;05-120
+Pius;Skowiniak;31.12.1958;848416172;ul. Sitowie;Broszków;lubelskie;47-200
+Rafa³;Arasim;19.11.1975;708382124;ul. Narutowicza Gabriela;Zblewo;wielkopolskie;02-315
+Maciej;Dzongas;20.07.2007;470778094;ul. S¹dowa;Trzebownisko;dolnoœl¹skie;87-875
+Orfeusz;Pawe³asz;30.08.1998;828937414;ul. Towarowa;Biskupice;zachodniopomorskie;77-420
+Hipolit;PaŸdzir;23.04.1998;166159243;ul. Koronowska;Czerniaków;œl¹skie;35-304
+Chociemir;Abrahamek;15.05.1964;939288501;Pl. Inwalidów;Sochaczew;mazowieckie;03-751
+Aurelian;Wermiejczyk;27.11.1962;876052403;ul. Kolonia Ochota;Warszawa;kujawsko-pomorskie;46-053
+Gedeon;Dodera;14.03.2007;654128940;ul. Konopna;Warszyn;wielkopolskie;58-560
+Zdobys³aw;Hicopolska;05.02.2006;654207722;ul. Sybiraków;Zielona Góra;wielkopolskie;80-282
+Przybys³aw;Ferzyñski;18.09.1955;321500013;ul. Dani³owskiego Gustawa;Por¹bka;dolnoœl¹skie;26-640
+Lew;Morodyñska;20.09.2017;970791202;ul. Mys³owicka;Stary Dzierzgoñ;³ódzkie;44-330
+Witalian;Szalerek;14.09.2012;601727138;ul. Œrednia;Kraków;mazowieckie;16-503
+Ruben;Hlebik;04.10.1966;350623036;ul. Kochanowskiego Jana;Krawce;warmiñsko-mazurskie;71-822
+Priam;Talent;14.11.1991;148895400;ul. Parkowa;Antoniówka;mazowieckie;83-441
+Patrycy;Sanudenko;13.09.1987;665699647;ul. Kopernika Miko³aja;Marynowo;œl¹skie;20-027
+Siemomys³;Orzok;18.08.1986;224188376;ul. Gen. Œwierczewskiego Karola;Radziechów;³ódzkie;59-160
+Albert;Szyffmann;18.04.1987;755892703;ul. Popie³uszki Jerzego (Ksiêdza Jerzego Popie³uszki);Franciszkowo;mazowieckie;27-620
+Lutobor;Masko;08.07.1967;145516527;ul. Wrzosowa;Zielona Góra;lubuskie;74-320
+W³odzis³aw;Stambu³ka;09.01.1989;166741011;ul. Konarowa;P³azowo;kujawsko-pomorskie;78-102
+Ruben;Seklewski;21.09.2012;490270304;ul. Tagorea Rabindranatha;Kielce;warmiñsko-mazurskie;62-303
+Lubomys³;£ubianko;07.05.1982;646516243;ul. Legionów;Kraków;podlaskie;67-407
+Oliwier;Fichaczek;13.10.1963;103158958;ul. Chopina Fryderyka;Rzeszów;³ódzkie;85-794
+Antym;Hamrus;01.04.1984;483397804;ul. Elektryków;Pruszków;opolskie;89-115
+Noemi;Pogrzebski;12.05.1980;521342862;ul. Porzecze;Ksiê¿omierz-Osada;wielkopolskie;41-303
+Dacjan;Cybichowski;10.04.1993;563215125;ul. Odolanowska;D¹browa Górnicza;dolnoœl¹skie;64-111
+Erwin;Weisbek;09.06.2011;900624782;Pl. Pi³sudskiego Józefa (Marsza³ka Józefa Pi³sudskiego);Damas³awek;wielkopolskie;62-865
+Hygin;Migdalczyk;02.06.1963;341058949;ul. Zacisze;Nowa Ma³a Wieœ;mazowieckie;43-190
+Eustachiusz;Szles;13.01.1962;662577458;ul. £obzowska;Terebela;lubelskie;38-505
+Bazyliusz;£ampysz;06.10.1963;382382389;ul. Gdañska;Kulik-Kolonia;ma³opolskie;62-066
+Martynin;Glada³a;01.01.2018;287906165;ul. Graniczna;Ruda Œl¹ska;opolskie;71-799
+Zdzis³aw;Bojerowicz;12.12.2014;788720357;ul. Podgórska;Karniowice;lubelskie;12-220
+Ludomir;Lyber;07.11.1964;147750163;ul. Turka Wincentego (Ksiêdza Wincentego Turka);Radom;pomorskie;42-470
+Gall;Jadamik;23.01.1988;859807363;ul. Cyprysowa;Lublin;wielkopolskie;62-610
+Wiktoryn;Mityk;02.01.2018;389102556;ul. Barona Smuk³ego Henryka;Kraków;mazowieckie;88-330
+Leonid;Kalimow;07.06.1955;494672884;ul. Orna;Wroc³aw;zachodniopomorskie;08-220
+Rufin;Kozbicka;01.01.2018;580228761;ul. Parkowa;G³odowo;wielkopolskie;26-603
+Cieszymir;Krzat;08.11.1951;972567958;ul. Jagielloñska;£uków;wielkopolskie;28-313
+Bo¿ymierz;Konierczyk;30.12.1966;172379225;ul. Sumowa;Borki;mazowieckie;80-254
+Niezamys³;Smajkiewicz;28.02.1962;850838891;ul. Rzeszowska;Dr¹gów;wielkopolskie;98-358
+Zbys³aw;Rêczmiñ;06.03.1963;388467065;ul. Koniaczowska;Katowice;lubelskie;04-189
+Niecis³aw;Kuczowic;22.12.1970;765222030;ul. Pogodna;Brzeg;ma³opolskie;30-636
+Hugo;Czeœniek;10.01.2018;657206293;ul. ¯ytnia;Kraków;mazowieckie;62-834
+Wincenty;Dorofelczuk;31.03.2001;322822698;ul. 11 Listopada;Trzebuñ;mazowieckie;70-562
+Fryderyk;Trupinda;15.08.1969;575756566;ul. Ogrodowa;Katowice;œwiêtokrzyskie;42-470
+Augustyn;Mokszan;15.04.2012;339089856;ul. Olsztyñska;Poznañ;podlaskie;19-100
+Leoncjusz;Struzek;18.04.1987;918587585;ul. Gimnazjalna;Putnowice Wielkie;kujawsko-pomorskie;16-427
+Marcjal;Ofira;24.07.1979;582389352;ul. Lotnicza;Jas³o;œl¹skie;44-230
+Kornel;Szumlas;14.02.1997;782261323;ul. Kostrzewskiego;Wilamów;œwiêtokrzyskie;10-259
+Denis;Poniewozik;01.11.1988;779755797;ul. Bukowa;£ódŸ;œl¹skie;87-820
+Kasper;Mozdrzeñ;25.11.1966;994157574;ul. Pocztowa;Ruda Œl¹ska;zachodniopomorskie;14-420
+Niegos³aw;Sielatycki;11.04.1967;849277665;ul. Trentowskiego;P³ock;³ódzkie;18-214
+Joel;Kardja³;05.10.1968;502548294;ul. S³owiañska;Bia³a;podkarpackie;22-540
+Przedbor;Stêpe³;10.02.1952;431777421;ul. Szkolna;Laszczyny;mazowieckie;14-140
+Gniewomir;Suraha;21.09.2014;907070837;ul. Abrahama Antoniego;Prusinowiczki;pomorskie;97-319
+Dytrych;Jandras;15.06.2014;963527045;ul. Niepo³omicka;B³êdowo;podlaskie;81-718
+Euchariusz;Sielawka;29.03.2001;504524278;ul. Lipowa;Ostrów Wielkopolski;³ódzkie;63-505
+Harasym;Pieci³;19.11.1957;461347100;ul. 75 Pu³ku Piechoty;Kraków;wielkopolskie;59-300
+Konstanty;Frezewitte;31.12.1954;335132105;ul. Wiêckowskiego Stanis³awa;Katowice;³ódzkie;18-107
+Liwiusz;Hamalski;07.02.1964;928381135;ul. Rodziny Burczykowskich;Œwierczów;podlaskie;62-069
+Epifan;Ciê¿ewski;12.02.2016;495566432;ul. Cha³upnicza;Pruszków;ma³opolskie;62-023
+Jarope³k;Czyszak;08.04.2010;211454816;ul. Wolskiego Zygmunta;Dre¿ewo;³ódzkie;16-050
+Irwin;Hejckman;06.04.1996;577580962;ul. Nieszawska;Nowy Kamieñ;zachodniopomorskie;41-608
+Dobrowój;Eiszowska;09.05.1993;561919877;ul. Porzeczkowa;Józefów;ma³opolskie;05-071
+Mi³ogost;Birn;07.07.2015;116650868;ul. Kolejowa;Warszawa;dolnoœl¹skie;42-221
+Tymoteusz;Ering;07.03.1988;788543130;ul. Œwiêtojañska;Wodzis³aw Œl¹ski;wielkopolskie;25-038
+Edwin;Tymirski;02.03.1989;292032460;ul. Lipowa;Palikije Drugie;podkarpackie;97-340
+Stos³aw;KuŸniewski;08.08.1955;881493044;ul. Rozenbergów Juliusa i Ethel;Sieradowice Pierwsze;œl¹skie;26-612
+Andrzej;Strutwa;11.01.2018;843796645;ul. Tarpanowa;Piekary Œl¹skie;mazowieckie;41-711
+Budziwoj;Grejnia;21.07.1978;306675480;ul. Wschodnia;Krostkowo;podkarpackie;63-510
+Ananiasz;Weska;05.09.1974;756620501;ul. Wiatraczna;Oœwiêcim;lubelskie;41-208
+Denis;B³a¿yk;16.03.1992;868676706;ul. Nachy³kowa;Kraków;pomorskie;78-425
+Apoloniusz;Winowiecki;26.11.1964;299121228;ul. Suwalska;Siewierz;podkarpackie;18-312
+Trzebowit;Klumczak;05.09.2006;227108713;ul. Poniatowskiego Józefa (Ksiêcia Józefa Poniatowskiego);Grabina;lubelskie;43-190
+Witalis;Rzeman;02.02.2008;385380812;ul. Pañska;Bia³a Nyska;wielkopolskie;93-486
+Benedykt;Mecger;15.07.1977;638767421;ul. Zab³ockiego Franciszka;Zaj¹czki;œl¹skie;56-300
+Cezary;Faliszkowska;09.09.1966;866837305;ul. Do¿ynkowa;Krzywki-Piaski;warmiñsko-mazurskie;97-360
+Eberhard;Bardas;10.08.1971;119940459;ul. Mariacka;Stolec;kujawsko-pomorskie;07-302
+Odyseusz;Gierstunowicz;03.02.2017;326871485;ul. Zielona Dolina;Pi³a;podkarpackie;59-706
+Porfirion;Bido³ach;20.07.1965;165290438;ul. Osiedle S³oneczne;Suwa³ki;wielkopolskie;18-400
+Jordan;WidŸ;05.09.1991;378079457;ul. Karkonoska;Wa³brzych;œl¹skie;80-169
+Bolemys³;Wójciszewicz;12.07.1976;271283486;ul. Conrada Józefa;Parsêcko;dolnoœl¹skie;99-100
+Wit;Laden;14.12.1954;934639679;ul. Romantyczna;Brzeg;lubelskie;59-920
+Skarbimierz;Pêcarski;07.06.1994;332164888;ul. Pukowca Józefa;Sulicice;ma³opolskie;60-505
+Fabian;Dudziej;24.02.2000;456226964;ul. Malczewskiego Jacka;Zam³ynie;mazowieckie;02-787
+Tadeusz;Szepard;25.07.1987;329557213;ul. Nadbrze¿na;Poznañ;œl¹skie;42-446
+Ruprecht;Gluskota;22.04.2002;339961184;ul. Podwale;Myœlachowice;wielkopolskie;91-481
+Janis³aw;£owczak;10.09.1966;580829472;ul. Nowa;Wroc³aw;podlaskie;63-230
+Adam;Dobrzyñski;23.04.1993;119537844;ul. Grodzka;£êkiñsko;œl¹skie;57-200
+Domarat;Durda;23.07.1996;793099291;ul. Beniowskiego Maurycego;Gi¿yno;œl¹skie;42-714
+Iwo;Budylin;07.07.1963;310140568;ul. Szybowa;Kêdzierzawice;pomorskie;78-102
+Roch;DudŸ;09.12.1960;377093879;ul. Przyczó³kowa;Gdynia;mazowieckie;05-077
+Edgar;Tajstra;17.10.1994;269456738;ul. £owmiañskiego Henryka;Krzeœlów;mazowieckie;05-410
+Rodryg;Elikowski;10.06.1957;254422057;ul. Koœciuszki Tadeusza (Genera³a Tadeusza Koœciuszki);G³upczów;opolskie;95-040
+Taras;Kunsdorf;21.10.1961;616472177;ul. Kiliñskiego Jana;Bia³ystok;œwiêtokrzyskie;05-075
+Herakles;W³oszczyna;09.07.1992;344111800;ul. £ukasiewicza Ignacego;Gdañsk;ma³opolskie;61-472
+Doris;Sztanders;17.12.1955;313888365;ul. Feliñskiego Alojzego;Wodzis³aw Œl¹ski;mazowieckie;63-025
+Adolf;Konczenko;13.02.2003;922594166;ul. Przew³ocka;Olsztyn;kujawsko-pomorskie;59-101
+Borys;Bakoñ;23.11.2017;450483682;ul. Kwiatowa;Emanuelina;lubelskie;05-410
+Morzys³aw;Heubner;13.04.1972;994244691;ul. Jaworowa;KuŸnica Czeszycka;dolnoœl¹skie;71-221
+Jozue;Schmetzner;19.10.1991;136640780;ul. Po³abska;Miros³aw;œwiêtokrzyskie;16-050
+Brunon;Wyrobij;09.07.2004;101106760;ul. Dworcowa;Mirowo;kujawsko-pomorskie;85-339
+Rodryg;Drozdol;07.01.1953;880255265;ul. Konarskiego Stanis³awa;Szorcówka;³ódzkie;96-304
+Paramon;Wo³ow;17.08.2015;241987315;ul. Kaszubska;Lublin;œl¹skie;98-331
+Imis³aw;Ka³oszyn;09.11.1964;202259269;Al. Koœciuszki Tadeusza;Czerwony Koœció³;ma³opolskie;20-856
+Radzimir;Gaconis;04.12.1989;807268385;ul. Lelewela Joachima;Lublin;pomorskie;43-109
+Bernard;Simaszkiewicz;30.06.1979;675950632;ul. ¯ywiecka;Szewnica;wielkopolskie;34-625
+Wilhelm;Ch³adko;24.01.2014;123468622;ul. Szkó³karska;Budczyce;opolskie;74-320
+Spycis³aw;Demidek;28.05.1988;999478959;ul. Opa³owa;Kraków;œwiêtokrzyskie;26-500
+Budziwoj;Jegrow;22.12.1956;623442528;ul. Brzozowa;Klimki Drugie;lubelskie;80-299
+Dymitr;Topajka;20.02.1992;772302221;ul. Wojskowa;Pañska Wola;œl¹skie;56-300
+Fortunat;Grzywecki;20.11.1985;637975621;ul. Prosta;Warszawa;œl¹skie;21-136
+Axel;£uszczok;01.02.1998;498493684;ul. Utrata;Trzebawie;³ódzkie;97-371
+Sylwan;Szpregiel;15.01.2014;553285017;ul. Roz³ucka;Podlaski;wielkopolskie;05-075
+Longin;Wyszywana;02.04.1980;375753205;ul. Kopernika Miko³aja;Warszawa;pomorskie;89-530
+Agatonik;Wietnik;20.01.1989;541913562;ul. Kasztanowa;Wysokie;kujawsko-pomorskie;44-187
+Czêstogniew;Kuœpa;26.01.1988;831955924;ul. Pocztowa;Bia³ystok;œl¹skie;30-215
+Damian;Debuk;10.11.1965;802755884;ul. Kochanowskiego Jana;Wilkowo;³ódzkie;55-050
+Ludos³aw;Stamatowski;28.06.1952;332735594;ul. Smoleñska;Szczecin;ma³opolskie;41-710
+Herakles;Raplewicz;13.08.1995;480015445;ul. Simony Kossak;Niedzieliska;dolnoœl¹skie;92-427
+Kondrat;Birlicki;21.11.2003;831203589;ul. Tulipanowa;Salminek;dolnoœl¹skie;58-173
+Priam;Tolios;01.08.2002;439883791;ul. Bydgoska;Morzyczyn;³ódzkie;38-316
+Damian;Matora;06.05.2011;297898671;ul. ¯migrodzka;Ocypel;zachodniopomorskie;35-604
+Samuel;Tresciñski;27.01.1984;896887699;ul. Kawcza;Boguszów-Gorce;lubuskie;10-449
+Zefiryn;Kielbert;19.05.1994;273274320;ul. Owidiusza;Jenin;ma³opolskie;46-048
+Manfred;Skalinik;21.02.2000;643713614;ul. Panoramiczna;Czêstochowa;ma³opolskie;59-500
+Emilian;Tupka;23.03.1997;171347062;ul. Krótka;Bornice;podlaskie;33-350
+Zdzis³aw;Gronczewski;12.08.1988;323034022;ul. Jagodowa;K³opot;podlaskie;21-040
+Jordan;Farba;19.06.1974;140980647;ul. Krucza;Serock;podlaskie;51-180
+Oktawiusz;Siedlanowski;08.01.2008;410789221;ul. Zwyciêstwa;Krzywowierzba;podkarpackie;87-602
+Florencjusz;Rz¹siecki;11.07.1979;101876619;ul. Zielonogórska;Paw³owice;mazowieckie;20-457
+Platon;Wulkiewicz;08.07.2000;904336604;ul. Poniatowskiego Józefa;Ma³ków;opolskie;42-456
+Cyprian;Kuzycz-Berezowski;09.05.2000;599053920;ul. B³oñska;Przyborowie;mazowieckie;85-790
+Harasym;Homdziuk;26.06.1950;921175940;ul. Mazowiecka;Poznañ;œl¹skie;62-610
+Ubys³aw;Kordyga;21.03.2011;935958217;ul. Powstañców;Moczyd³y-Pszczó³ki;œwiêtokrzyskie;18-400
+Leopold;Mrynowicz;16.10.1959;371115110;ul. Krzywoustego Boles³awa;Bytom;mazowieckie;87-320
+Doris;Milwicz-Delach;16.11.1963;365702056;ul. D¹browskiego Jaros³awa (Genera³a Jaros³awa D¹browskiego);Wielkie Pu³kowo;pomorskie;40-496
+Dagobert;Krucyba³a;03.02.1984;992642127;ul. M³yñska;Æmielów;œl¹skie;85-424
+Sulis³aw;Puteczna;11.07.1996;794893427;ul. Klonowa;Popielarnia;³ódzkie;05-180
+Bruno;Pieprzyny;11.07.1982;605357200;ul. Okulickiego Leopolda (Genera³a Leopolda Okulickiego);Gdañsk;kujawsko-pomorskie;10-179
+Jacenty;Babiesz;02.07.1990;203568674;ul. Oskardowa;Kielce;kujawsko-pomorskie;20-046
+Leon;Sareñcza;03.07.1991;818069766;ul. Kolejowa;Warszawa;kujawsko-pomorskie;83-440
+Zdziwoj;Palige;18.08.1960;910229531;ul. Grota-Roweckiego Stefana (Genera³a Stefana Grota-Roweckiego);Buczkowo;podlaskie;90-140
+Dobromi³;Tera³a;11.05.1985;254865335;ul. Witosa Wincentego;Pomiechówek;pomorskie;47-222
+Albert;Wojcieczko;24.05.1962;257880518;ul. ¯eliwna;Piekary Œl¹skie;œl¹skie;62-080
+Manswet;Kaczaj³o;21.06.1951;675746777;ul. Maciejowicka;Poznañ;mazowieckie;34-100
+Sylweriusz;Habroœ;19.08.1957;162402222;ul. Osiedlowa;Tarnowskie Góry;mazowieckie;80-440
+Eweryst;Ahner;28.10.2007;131121379;ul. Krobska;Odolin;dolnoœl¹skie;97-320
+Kajetan;Gurzenda;15.10.2013;670637043;ul. Garncarska;Przemyœl;opolskie;09-550
+Waldemar;S³omanna;04.10.1976;595494463;ul. B³a¿ejowska;Gdañsk;warmiñsko-mazurskie;93-177
+Blizbor;Stadnicki;08.01.1955;616926482;ul. Krupanka Henryka;Aleksandrowo;podlaskie;16-050
+¯ytomir;Rotsides;01.05.1988;488355592;ul. Na Stoku;£om¿a;mazowieckie;33-342
+Wyszomir;Nyckel;19.02.1997;922641158;ul. Wojsk Ochrony Pogranicza;Synogaæ;podlaskie;40-866
+Wilhelm;Lewczucki;14.02.1950;924475081;ul. ¯eñców;Knurów;podkarpackie;81-829
+Sieciech;Koprowski vel Kocprowski;06.02.1979;169411161;ul. Kopernika Miko³aja;Kraków;dolnoœl¹skie;47-200
+Bogumi³;Weljan;27.05.2012;959595100;ul. Zielona;Kraków;kujawsko-pomorskie;62-540
+Torpet;Hyrciuk;25.05.1977;588083424;ul. S³owackiego Juliusza;Radom;³ódzkie;10-277
+Faust;Rokosza;20.05.1979;936496152;Al. Piastów;Tretki;³ódzkie;05-500
+Terencjusz;Hutnikiewicz;15.10.2006;321898691;ul. Ligonia Juliusza;Wara;zachodniopomorskie;65-038
+Probus;Handler;05.04.2010;261242495;ul. Wodzis³awska;Bojanowo;wielkopolskie;95-011
+Spycimir;Fellinger;28.11.2009;907806470;ul. Mokra;Kaliszany;lubuskie;32-420
+Radociech;Skawroñ;18.06.1981;337068050;ul. Wo³owa;£ysa Góra;zachodniopomorskie;00-732
+Zbylut;Kietkowicz;31.07.1989;623019236;ul. Gliwicka;Poznañ;podlaskie;60-115
+Miron;Ostrzyga³o;19.02.1957;499761915;ul. Wrzeciono;Jamy;wielkopolskie;18-420
+Salomon;Raækowski;09.02.2011;470698490;ul. Pietrusiñskiego;Sojczyn Gr¹dowy;warmiñsko-mazurskie;39-120
+Egbert;Bocenek;02.05.2007;919108728;ul. Batorego Stefana;K³oczew;zachodniopomorskie;62-260
+Cieszymys³;Klimkosch;18.11.1954;570152829;ul. Spacerowa;Lublin;pomorskie;05-074
+Eulogiusz;Cuchciej;18.05.1955;563084535;ul. Groëra Franciszka;Kêdzierzyn-KoŸle;pomorskie;32-400
+Kasjan;Czupicka;30.05.1961;701679629;ul. Wawrzyniaka Piotra;Jaborowice;mazowieckie;37-544
+Czech;Falfuœ;15.08.1994;415627612;ul. Zapolskiej Gabrieli;Siewierz;œl¹skie;38-503
+Patryk;Zarys;24.01.1963;465991652;ul. Moniuszki Stanis³awa;Legnica;pomorskie;47-100
+Siemis³aw;Klementejew;28.05.2009;435651557;ul. Œwiêtokrzyska;Budziszów;ma³opolskie;70-736
+Wojs³aw;Debernitz;03.06.1996;208214075;ul. Akademicka;Podbiele;œwiêtokrzyskie;42-439
+Walentyn;Bariewski;19.02.1962;823890092;ul. Oratoryjna;Kazimierza Wielka;mazowieckie;73-110
+Roœcis³aw;Œwiredo;19.10.1987;522922172;ul. Pszowska;Koñskie;œl¹skie;70-754
+Borzywoj;Otoczyñski;25.09.1974;869883156;ul. Ma³achowskiego Stanis³awa;Chmielarze;³ódzkie;06-210
+Barnaba;Dunej;17.01.2009;843898622;ul. Zagójska;Wroc³aw;dolnoœl¹skie;78-230
+Modest;Figacz;02.02.2007;708599899;ul. Rezedowa;W³oc³awek;kujawsko-pomorskie;08-300
+Zdobys³aw;Ko³oszyn;10.01.2001;418433867;ul. Starowiejska;Kraków;zachodniopomorskie;30-858
+Gos³aw;Be³kowicz;03.07.1989;919071279;ul. Chwaszczyñska;£¹czna;kujawsko-pomorskie;66-200
+Florencjusz;Szander;01.09.1999;919838453;ul. Drobiarska;£ódŸ;œwiêtokrzyskie;84-110
+Czech;Wa³czuk;02.11.1954;951004224;ul. Warmiñska;Rybna;³ódzkie;42-772
+Florian;Chorz¹pa;04.02.1963;134114453;ul. Drzyma³y Wojciecha;Helenowo;podkarpackie;48-220
+Egon;Olków;13.08.1977;504913451;ul. Owocowa;Zarêba;œl¹skie;33-336
+Goœcimir;Sapulak;03.07.1987;803692070;ul. Leszków;Kraków;wielkopolskie;05-400
+Pakos³aw;Ostrychowicz;29.06.2009;673171632;ul. Komunalna;Bielsko-Bia³a;œl¹skie;42-600
+Wadim;Dawrowska;26.03.1962;356939191;ul. Browarniana;Rakówka;dolnoœl¹skie;43-502
+Antonin;Ga³andziuk;02.01.2015;315437127;ul. Strzelecka;Legionowo;œwiêtokrzyskie;54-054
+Oswald;Zo³otarewicz;30.01.1951;747951225;ul. Milionowa;Wo³ów;œl¹skie;78-640
+Lenart;Humelicz;23.09.1957;155728277;ul. Plac Dworcowy;Borzychy;dolnoœl¹skie;05-400
+Dobiegniew;Gandla;10.10.2010;980979954;ul. Wiosenna;£ódŸ;dolnoœl¹skie;67-210
+Przybymir;Grzêsikiewicz;02.05.1986;206186098;ul. Konstytucyjna;Kraków;zachodniopomorskie;87-423
+Wirginiusz;Smolarowska;22.12.2007;281078815;ul. Stary Las;Ko³obrzeg;mazowieckie;03-562
+Hilary;Milinek;06.12.1981;815325130;ul. Szkolna;Bronis³awka;kujawsko-pomorskie;67-410
+Dacjan;Frinczek;06.12.1957;270059227;ul. Tunkla Ludwika (Ksiêdza Ludwika Tunkla);Bydgoszcz;³ódzkie;56-100
+Laurencjusz;Klatte;08.11.1991;166904012;ul. Nyska;Sopot;kujawsko-pomorskie;30-254
+Julian;Chimczewska;25.09.1954;104784045;ul. Wandejska;£ódŸ;³ódzkie;26-807
+Brunon;Lewieñ;12.09.1957;595692055;ul. Nocznickiego Tomasza;Ostrów Wielkopolski;ma³opolskie;87-810
+Epifan;Tatomisz;04.05.1985;527568407;ul. Rolna;Gdynia;zachodniopomorskie;08-300
+Bratumi³;Weisberg;15.05.1972;461143078;ul. Struga Andrzeja;£opatki;ma³opolskie;65-025
+Mi³owan;Potyn;12.09.1952;915010641;ul. Piastowska;Przyborów;wielkopolskie;02-411
+Racis³aw;Gronczewski;01.06.1976;478961199;ul. Bytomska;Bielsko-Bia³a;³ódzkie;33-300
+Egon;Klutki;08.09.1991;365967974;ul. S³oneczna;Dêbiczek;mazowieckie;17-322
+Malwin;Karandys;27.09.2013;411259997;Al. Powstania Warszawskiego;Lublin;podlaskie;88-410
+£azarz;Zykus;26.12.1968;884125859;ul. Zuga Bogumi³a Szymona;Buczynów;mazowieckie;83-330
+Wac³aw;Szablonowicz;02.09.2004;923130192;ul. Ojca Innocentego Bocheñskiego;S³upówko;dolnoœl¹skie;20-338
+Wieñczys³aw;Lebiedzik;14.01.2018;737989486;ul. Pucka;Trzebnica;kujawsko-pomorskie;65-065
+Mœcigniew;Talerska;23.06.1978;395896419;ul. Stara;S³omkowo;mazowieckie;58-500
+Achacy;Oroschuk;24.02.1986;514305467;ul. G³owackiego Bartosza;Wierzchowo;lubelskie;97-226
+Kalikst;Chaber;28.12.1978;815666272;ul. Boles³awa Krzywoustego;Chodzie¿;podkarpackie;16-420
+Cieszyrad;Bonc;01.11.1984;143608444;ul. Prusa Boles³awa;Kamieniec Z¹bkowicki;ma³opolskie;58-560
+Angelus;Rozmaryniewicz;12.04.1974;687991521;ul. Jêdruszka Antoniego;Bagniewko;pomorskie;34-323
+Arseniusz;Makorewicz;19.04.1981;620877590;ul. Parku Jurajskiego;Lublin;ma³opolskie;38-331
+Natan;Sewartowski;16.09.1959;506880719;ul. Wolska;Bydgoszcz;ma³opolskie;91-601
+Domos³aw;Triedla;04.04.1986;868884701;ul. P³ociowa;D¹browa Górnicza;zachodniopomorskie;02-114
+Ksenofont;Mamiara;03.11.1962;812662257;ul. Kasztanowa;£ódŸ;pomorskie;63-300
+Zefir;Chroniuk;15.07.2007;634312798;ul. Kwietna;Moczyd³y-Jakubowiêta;mazowieckie;63-621
+Ubald;Faud;05.10.1966;417543379;ul. Saska;Katowice;œl¹skie;43-600
+Bonawentura;Syrowacki;12.10.1981;203307852;ul. Œwiêtych Cyryla i Metodego;Kolonowskie;œl¹skie;08-110
+Wasyl;Geba;18.12.1998;680652069;ul. Januszewskiej Hanny;Pi³a;³ódzkie;02-250
+Cieszygor;Biaœ;31.08.2013;749963095;ul. Mendego Edwarda (Ksiêdza Edwarda Mendego);Bielsko;mazowieckie;47-430
+Norbert;Newald;14.12.1987;794135444;ul. Narutowicza Gabriela;Tuszów Narodowy;œl¹skie;46-325
+Edmund;Kniech;11.05.1965;218630144;ul. Leopolda;Bytnica;ma³opolskie;41-605
+Bruno;Janin;28.11.2003;875171915;ul. Traugutta Romualda;Warszawa;œl¹skie;11-041
+Mariusz;Pionikowicz;26.11.2012;359698093;ul. £obodowskiego Józefa;Rybnik;kujawsko-pomorskie;26-650
+Bogdan;Goduch;13.02.2004;328124488;ul. Wroc³awska;Kuczewskie;³ódzkie;70-887
+Spycis³aw;Zaskroniec;20.01.2017;135404947;ul. Szczêœæ Bo¿e;Radom;dolnoœl¹skie;46-325
+Nieznamir;Jensen;18.03.1962;762074852;ul. ¯eromskiego Stefana;Bobrowo;mazowieckie;98-290
+Rafael;Batiuk;25.04.1990;118767681;ul. Altanowa;Lublin;ma³opolskie;41-711
+Klemens;Ka³tunowicz;20.03.1979;227679556;ul. Orkana W³adys³awa;Gdañsk;mazowieckie;98-170
+Goliat;Atik;08.04.1989;325922029;ul. Starodêbowa;Tuchola;mazowieckie;02-457
+Florenty;Luzyñczyk;17.06.1978;607565205;ul. Hagera Bronis³awa (Doktora Bronis³awa Hagera);Œwidnica;lubuskie;64-421
+Horacy;Nowi;22.10.2017;341373957;ul. Sk³adowa;Radom;œl¹skie;32-406
+Mi³owan;Peretiakowicz;11.11.2013;467557750;ul. Ró¿ana;Ruszowice;mazowieckie;20-411
+Józef;Ochorok;01.07.1950;494467155;ul. Limanowskiego Boles³awa;£ódŸ;kujawsko-pomorskie;88-115
+Goœcirad;Tyssarczyk;31.12.1951;893775445;ul. Banacha Stefana;Warszawa;zachodniopomorskie;05-530
+Witold;Samczuk;11.12.2010;400803986;ul. Ko³odziejska;Bielsko-Bia³a;œl¹skie;05-400
+Helmut;Kacjan;11.12.1990;595568293;ul. Pi³sudskiego Józefa;Piotrowice;mazowieckie;95-080
+Boguchwa³;Nowoszek;01.01.1967;345105086;ul. Zagrodniki;Pruszków;kujawsko-pomorskie;81-429
+Iwo;Madyda;22.12.1978;962761782;ul. £¹kowa;Strzelce Opolskie;ma³opolskie;02-876
+Czechasz;Boguslañski;06.09.1987;208977166;ul. Kalinowa;Poznañ;lubelskie;43-502
+Walentyn;Polens;14.03.1994;581079781;ul. Zyblikiewicza Miko³aja;Jedzbark;œwiêtokrzyskie;37-125
+Szymon;Brunengraber;18.03.2008;520643244;ul. Szafirowa;Ostro³êka;ma³opolskie;93-491
+Bertrand;Bielaczek;09.12.1971;273972516;ul. Rewalska;Adamów;œl¹skie;08-311
+Bogusz;Sójak;04.12.1978;234961737;ul. Jaracza Stefana;Kraków;ma³opolskie;26-803
+Arnold;Andruniów;14.08.2014;920497521;ul. Robotnicza;Kêdzierzyn-KoŸle;œl¹skie;32-310
+Tyberiusz;£oginoff;13.01.2010;396843596;ul. Krawczyka Klemensa;Nowogard;pomorskie;70-892
+Wiktor;Golunkiewicz;14.05.1955;363985620;ul. Sk³adowa;Ozorków;mazowieckie;47-260
+Klemens;Œwirlik;08.07.1965;647516469;ul. ¯ó³ta;Kozubów;zachodniopomorskie;89-100
+Teodor;Maczkanow;12.11.2009;969474350;ul. Przybylskiego Jacka;Boguszyce;wielkopolskie;28-210
+Chryzostom;Dochnal;14.10.1978;630283449;ul. Wodna;Kraków;opolskie;81-597
+Noe;Bakiara;10.12.2002;167024804;ul. Bortnowskiego W³adys³awa;D¹browa Górnicza;podlaskie;21-400
+Czêstowoj;Trzêsiok;16.06.1958;554299993;ul. Kolejowa;Szczecin;podlaskie;41-408
+Magnus;Czarneckyj;16.04.1964;509198018;ul. Grójecka;Warszawa;mazowieckie;51-180
+Krzesimir;Sreñscek;22.03.1995;226042235;ul. Borowikowa;Gdañsk;³ódzkie;26-807
+Eustachy;Mychaj³yk;27.06.1997;366680078;ul. Mycielskiego Ludwika;¯urawia;wielkopolskie;70-785
+Heliasz;£ucjanow;14.08.1996;648366913;ul. Rajska;Klimaszewnica;lubuskie;64-606
+Pawe³;Gergola;18.11.2010;798036005;ul. Ch³opska;Kuchary;zachodniopomorskie;41-800
+Bonifacy;Löschner;18.12.2014;190049436;ul. Szwole¿erów;Bydgoszcz;œl¹skie;07-311
+Melchior;Wisnyk;22.02.1992;773046306;ul. Œliska;Œwiêtojañsko;kujawsko-pomorskie;95-006
+Helmut;Zdyrka;17.03.1984;969059832;ul. Budzyñska;Ostrzeszów-Pustkowie;³ódzkie;32-005
+Cieszygor;Pochratko;14.03.2005;655720169;ul. ¯ywiecka;Szczecin;mazowieckie;09-162
+Jakub;Stronczek vel Fr¹czek;19.12.2002;575905424;ul. Grenadierów;Bydgoszcz;œl¹skie;16-140
+Wawrzyniec;Baryñ;03.05.1952;205820943;ul. Florera Romana;¯abiniec;wielkopolskie;44-245
+Edwin;Komóda;17.04.1988;298332977;ul. Grunwaldzka;Gr¹dzeñ;kujawsko-pomorskie;86-318
+Ziemis³aw;Kulczenko;01.04.1996;268218381;ul. Nadrzeczna;Gietki;dolnoœl¹skie;81-323
+Józefat;Sp³awa;13.06.1970;183237605;ul. Akacjowa;£opiennik;³ódzkie;17-306
+Dymitriusz;Kacy;11.04.1955;833768067;ul. Bystra;Lublin;pomorskie;91-496
+Ludwik;Pucki;14.02.2002;442330290;ul. Lwowska;Bydgoszcz;zachodniopomorskie;89-500
+Ders³aw;Butenko;01.02.1954;701646114;ul. Na Skarpie;Bytom;zachodniopomorskie;63-621
+Domarat;Paœkudzka;02.07.1955;475348287;ul. Przyrzecze;Grudzi¹dz;œwiêtokrzyskie;38-126
+Nestor;Gordzisz;03.11.1956;534560783;ul. S³onecznikowa;Kielce;mazowieckie;01-264
+Prochor;Halizanowicz;13.05.1993;865001791;Pl. Szeli Jakuba;Ruda Œl¹ska;opolskie;59-620
+Chryzant;Ginas;11.03.1954;466576871;ul. Golikówka;Ujœcie;zachodniopomorskie;30-437
+Mœcis³aw;Mie¿erycka;20.10.2007;660684349;ul. Wroc³awska;Kielce;lubelskie;62-022
+Salomon;Renkiel;03.10.2010;286567385;ul. Œlusarska;Otoka;œl¹skie;85-065
+Wszerad;Tehsmer;24.06.1969;180182749;ul. Œwidra;Sosnowo;dolnoœl¹skie;42-284
+Dorian;Bax;05.07.1998;606482259;ul. K¹pielowa;Niskie Wielkie;dolnoœl¹skie;53-214
+S³awomir;Halowski;14.01.1994;519004011;ul. Miodowa;Kielce;³ódzkie;99-414
+Idzi;Lobitz;11.11.1955;137469496;ul. Polaka Benedykta;W³oc³awek;lubuskie;61-355
+Bohdan;Piekart;20.06.2004;939279780;ul. Sozopolska;Rybnik;warmiñsko-mazurskie;38-350
+Denis;Wirkutowicz;15.03.1993;335171913;ul. Reytana Tadeusza;Wroc³aw;œwiêtokrzyskie;60-521
+Czesemir;Bliniecki;27.12.2010;199820718;ul. Wiosenna;Karolew;mazowieckie;78-500
+Klemens;Mirasiewicz;28.05.1969;506167696;ul. W¹ska;Stara Zbelutka;dolnoœl¹skie;83-330
+Ezechiel;Marciszel;26.04.2010;216805791;ul. Marsza³ka Ferdynanda Focha;Wodzin-Okupniki;dolnoœl¹skie;43-110
+Goœcimi³;Miczura;06.09.2007;245828105;ul. Zakrêtowa;Kielce;œl¹skie;18-500
+Czesemir;Mastachowska;14.02.1994;169911518;ul. Ogrodowa;Warszawa;œl¹skie;08-119
+Hubert;Bendorz;24.03.2007;209692285;ul. Kraszewskiego Józefa Ignacego;Warszawa;ma³opolskie;62-812
+Borys;Depiñski;23.03.1968;317918397;ul. Maæka Z Bogdañca;Bêczarka;podkarpackie;46-053
+Jan Chryzostom;Gabrylski;12.07.1981;428126432;ul. Kasprzaka;Borkowo;mazowieckie;11-210
+Chociemir;Boro;17.11.1995;125691333;ul. Brzozowa;Siedlce;wielkopolskie;96-503
+Tymon;Trubicki;16.07.1973;969990259;Al. Kasztanowa;Sarnów;œl¹skie;71-503
+Rajnold;Biesikirski;03.12.1974;982913857;ul. 11 Listopada;Jaworzno;ma³opolskie;99-200
+Radomi³;Przedwoj;22.05.2010;560350788;ul. Fiñska;Zelgniewo;mazowieckie;12-230
+Hadrian;Serkizowski;15.07.2007;933925874;ul. Willowa;S³upsko;podlaskie;02-635
+Myœlibor;Ha³aburdzin;13.11.1982;751270020;ul. Wroc³awska;Poznañ;lubelskie;83-425
+Dobrowiest;Rekoœ;25.06.2010;440860134;ul. ¯ywiecka;I³awa;opolskie;16-400
+Magnus;Rygacki;03.04.1999;843643060;ul. Srocza;Wroc³aw;pomorskie;27-552
+Norman;Tscharner;31.10.2010;874315463;ul. Roosevelta Franklina;Raczynów;mazowieckie;28-200
+Filemon;PrzeŸdzienkowska;26.05.1982;469704960;ul. Czarnoleska;G³ówka;œwiêtokrzyskie;31-910
+Damazy;Re³owski;22.09.2013;578108092;ul. Krakowska;Wroc³aw;dolnoœl¹skie;17-312
+Batszeba;Rodkowski;10.02.1972;239385607;ul. Grupy AK Pó³noc;Barcie;ma³opolskie;37-415
+Herbert;Swieszek;12.02.2002;932225928;ul. Okólna;Kalskie Nowiny;mazowieckie;23-250
+Onufry;Redfern;11.01.1978;956585338;ul. Szwajcarska;Inowroc³aw;lubelskie;25-705
+Grzymis³aw;Kubeluk;25.02.1966;407186748;ul. Czysta;Machowa;podlaskie;20-145
+Rufin;Bojaroiæ;08.02.1953;258258040;ul. Jod³owa;Kraków;œwiêtokrzyskie;41-200
+Lucjan;Markgraf;03.03.2010;203323540;ul. Piêkna;We³nin;œl¹skie;34-531
+Kain;Siod³owski;10.03.1972;541384737;ul. M³ynarska;£apy;lubelskie;19-335
+Grodzis³aw;Brumiecka;01.05.2006;993965749;ul. Ropczycka;Wichradz;podkarpackie;41-500
+Wszebor;Martingier;10.07.1965;697234309;ul. Boczna;Obr¹b;podlaskie;94-118
+Walenty;Siergiejew;13.03.1969;917806869;ul. Polonii Wroc³awskiej;Sopot;³ódzkie;67-222
+Amedeusz;Œwielkowska;30.07.1990;173218201;ul. Kossaka Wojciecha;Kosianka Leœna;podlaskie;08-330
+Edward;Moschny;19.07.1965;538168158;ul. Bandtkiego Jerzego Samuela;Gdañsk;pomorskie;26-610
+Helmut;Chybowski;25.02.2000;468325118;ul. Odpolany;Che³msko Œl¹skie;œwiêtokrzyskie;53-008
+Kajetan;Skoraczyñski;21.12.1967;313916195;ul. Paprociowa;Warszawa;kujawsko-pomorskie;80-178
+Dobiegniew;Archipowicz;03.03.1953;855364836;ul. Akademicka;Studzienice;mazowieckie;44-330
+Cierpis³aw;Zbrójkiewicz;11.08.2016;922577448;ul. Braniewska;¯ytna;œl¹skie;74-200
+Leon;Stuligrosz;01.03.1987;915897776;ul. Nowowiejska;Zielkowice;kujawsko-pomorskie;58-500
+Bronimir;Zazga;22.06.2013;192849593;ul. Opaliñskiego Krzysztofa;Radom;œwiêtokrzyskie;06-400
+Lewin;Rechwalik;11.12.1960;620150723;ul. Paziñskiego Romana;£ódŸ;œl¹skie;87-810
+Leodegar;KuŸmieckiewicz;25.11.1968;828731269;Al. Obroñców P³ocka 1920 Roku;Wólka Bodzechowska;wielkopolskie;83-425
+Wszerad;Siembrzuch;03.01.1996;483232303;ul. Zakole;£ódŸ;mazowieckie;88-160
+Lubomir;¯uchowiecki;11.08.1960;786770816;ul. Bukowa;Solec-Zdrój;ma³opolskie;99-400
+Epifaniusz;Bejne;29.08.2000;271358726;ul. Mickiewicza Adama;Oporów;mazowieckie;61-588
+Kiry³;Obrzydziñski;09.06.1991;934968269;ul. Krotoszyñska;Szkodna;kujawsko-pomorskie;81-502
+Hiacynt;Karpinowicz;29.05.1973;580202469;ul. Zamenhofa Ludwika;Pêczerzyñski M³yn;dolnoœl¹skie;41-205
+Olech;Piltz;15.04.1984;179352906;ul. Zbaraska;D³ugi Bród;ma³opolskie;64-730
+Ali;Stefankiewicz;09.03.1974;273250043;ul. K¹kolowa;Zielona Góra;lubelskie;70-763
+Wilhelm;Szramkowski;12.02.2017;713735681;ul. Wenecka;Ruszowice;zachodniopomorskie;21-150
+Dezyderiusz;Czatyrko;30.05.1970;620637629;ul. Szablowskiego Jerzego;Bia³ystok;mazowieckie;18-200
+Bogusz;Porytan;25.08.1952;907632923;ul. Wo³yñska;S³opnice;dolnoœl¹skie;07-311
+Jan Gwalbert;Schindowski;26.02.1972;341636112;ul. Irysowa;Ciemiêtniki;œl¹skie;41-706
+Gabin;Seth;01.01.1955;806365012;ul. Stwosza Wita;Ma³e Bo¿e;³ódzkie;71-013
+Radzis³aw;Dziapa;29.12.1999;237928458;ul. Œwiatowida;Krêpica;podkarpackie;00-466
+Ursyn;Lokka;28.07.1988;128525851;ul. To³stoja Lwa;Warszawa;lubelskie;44-207
+Adolf;Skuroszewska;09.09.2004;551600110;ul. Lipowa;Czerwonka-Gozdów;ma³opolskie;43-600
+Konrad;Lantenszleger;27.02.1985;940869111;ul. Wolnoœci;Opole;lubelskie;97-512
+Mœcigniew;Szprêga;23.02.1953;520491402;ul. Berwiñskiego Ryszarda;Gdañsk;lubuskie;99-205
+Przybymir;Herlander;01.11.1957;100619953;ul. Chrobrego Boles³awa;Pieñki;ma³opolskie;73-102
+Kordian;Be³usz;01.05.1995;690497928;ul. Kazuñska;Orzechówka;mazowieckie;45-087
+Adaukt;Mordu³a;17.07.1998;689403747;ul. Strzelecka;Oporzyn;wielkopolskie;18-421
+Priam;Chenciñski;25.03.1992;201410001;ul. Matematyczna;Warszawa;zachodniopomorskie;27-100
+Ciechos³aw;Be³czawski;25.06.1966;780731486;ul. Skarbowa;Ostrów Wielkopolski;dolnoœl¹skie;98-405
+Rufin;Mirzycki;08.03.2014;261428294;ul. Gryfitów;Wroc³aw;mazowieckie;43-410
+Beniamin;Szpurko;17.08.1975;330110611;ul. Graniczna;£ódŸ;podlaskie;83-425
+S³awosz;Marcyoniak;12.06.2015;941892264;ul. Samorz¹dowa;Ruda ¯urawiecka;wielkopolskie;44-310
+Boleczest;Lauch;18.08.1962;590840302;Rynek £azarski;£ukoszyno-Borki;pomorskie;22-440
+Czech;Dornatowska;21.08.1952;876185632;ul. Okólna;O³drzychowice K³odzkie;œl¹skie;26-035
+Otomar;Owies;28.02.1990;394817109;ul. G³ówna;£ódŸ;podlaskie;31-431
+Natalis;Kaliszkowski;07.11.1975;640062110;ul. Kryniczna;Kraków;dolnoœl¹skie;05-400
+Czes³aw;Dowlaszczewicz;13.05.2003;908845325;ul. Koszykowa;Bratkowice;³ódzkie;80-895
+Jacenty;Niecicki;28.11.1952;402784904;Al. Piasta;P³ock;podlaskie;20-830
+Germanik;Lewieñ;25.04.2009;193872840;ul. Rybnicka;Lublin;œl¹skie;38-102
+Bronimir;Waliszczak;03.09.2005;950297511;ul. Okoniowa;Wola Pacyñska;pomorskie;60-166
+Radzis³aw;Mielawczyk;26.10.1963;816128104;ul. Wa³y Piastowskie;Czêstochowa;wielkopolskie;18-400
+Les³aw;Senczkowski;19.11.2012;986796572;ul. K³odzka;Jadwisin;œl¹skie;49-100
+Ireneusz;Lebiedzienko;06.02.1991;155955201;ul. Boya-¯eleñskiego Tadeusza;Zielona Góra;pomorskie;90-221
+Unis³aw;Rulko;28.05.1965;150855249;ul. Jana z Kolna;Bujniczki;³ódzkie;94-407
+Flawiusz;Kierznikiewicz;20.03.1981;216993113;ul. Powstañców Warszawskich;Mi³os³awice;dolnoœl¹skie;41-711
+Spycigniew;Jaganow;12.05.1965;844540864;ul. Pegaza;Czeremcha;zachodniopomorskie;80-824
+Enoch;Komasa;24.09.1950;885459314;ul. Krêta;Zielona Góra;podkarpackie;18-400
+Godzimir;Pitracha;16.09.1965;464713457;ul. Jaskrów;D¹brówka S³upska;mazowieckie;27-500
+Cieszys³aw;Chomyczuk;21.03.1971;120414022;ul. Poznañska;P³ock;pomorskie;02-912
+Epifaniusz;Brodawiak;06.04.2016;460168244;ul. Droga Dêbiñska;Buszkowo;zachodniopomorskie;43-600
+Soter;Bartys;03.05.1977;911298635;ul. Bia³odrzewna;Lubin;œwiêtokrzyskie;37-125
+Engelbert;Nabrzycki;05.06.1978;567967526;ul. Micha³owskiego Piotra;Poznañ;³ódzkie;42-690
+Juliusz;Uciurkiewicz;03.06.1967;790014944;ul. Wolnoœci;CzeladŸ;podkarpackie;73-110
+Dezydery;Nasi³kowski;03.06.1957;897308747;ul. Malinowa;Przepa³kowo;dolnoœl¹skie;30-444
+Natan;Koszliga;31.12.1965;572923566;ul. Huenefelda Andrzeja;Poznañ;kujawsko-pomorskie;26-060
+Wawrzyn;Wypych³o;18.03.1990;631562504;Wybrz. Gdyñskie;Bia³ystok;œl¹skie;04-824
+Herakles;Szuturma;21.01.1981;801491164;ul. Osterwy Juliusza;Lublin;lubelskie;61-337
+Angelus;Dyczyj;31.12.1989;548590749;ul. Kusociñskiego Janusza;Szmur³y;mazowieckie;85-435
+Kastor;Plasek;10.05.1983;462854200;ul. Pocztowa;Józefów;ma³opolskie;26-400
+Abdiasz;D³abik;21.10.1969;542634553;ul. Makowska;Bydgoszcz;mazowieckie;18-208
+Wszeciech;Mimietz;20.08.2017;255664521;ul. Dzia³kowa;Sikorzyce;œwiêtokrzyskie;43-309
+Gaspar;Bakalewska;28.06.1980;383877415;ul. Kozie³ka Alojzego (Ksiêdza Alojzego Kozie³ka);Warszawa;œl¹skie;89-340
+Dionizjusz;Kambal;13.04.1965;436484723;ul. Ratowników;Morzêcino;mazowieckie;59-305
+Nelly;Puf;16.05.1996;819941833;ul. S³omnicka;Bielsko-Bia³a;podlaskie;21-543
+Telesfor;Kasjanik;26.03.1990;718368679;ul. Chemiczna;Kraków;warmiñsko-mazurskie;17-332
+Saul;Mulorz;18.08.1979;319522749;ul. Wyczó³kowskiego Leona;Jêdrzejów;opolskie;17-300
+Ulrych;Krywian;22.05.1972;518231689;ul. Wschodnia;¯ory;œl¹skie;27-220
+Tyberiusz;Plachów;22.01.1959;110315448;ul. Chrobrego Boles³awa;£ódŸ;mazowieckie;82-100
+Tolis³aw;Samuj³a;11.03.2017;750949209;ul. Kalinowa;Przesmyki;podlaskie;27-641
+Mieszko;Go³ebiak;31.03.1973;445750494;ul. Krawczyka Klemensa;Stolno;ma³opolskie;48-303
+Czêstogniew;Kraœniuk;27.05.2011;836824615;ul. Strzelców Bytomskich;Toporów;lubuskie;81-516
+Torpet;GwoŸdziewa;20.04.1959;507827132;ul. D¹browskiego Jaros³awa;Czarne;kujawsko-pomorskie;11-204
+Mœcis³aw;Kampf;02.08.1974;531845709;ul. Rusa³ki;Petrykozy;dolnoœl¹skie;75-648
+Grzegorz;Gontek;26.08.1993;416313102;ul. Dêbowa;Gdañsk;œwiêtokrzyskie;09-213
+Józef;Widziewicz;07.10.1991;290798076;ul. Libelta Karola;Kraków;mazowieckie;72-400
+Racis³aw;Auchimenia;15.03.2008;398993100;ul. Radziejowska;K¹ck;dolnoœl¹skie;14-120
+Dymitriusz;Bettstein;09.08.1979;571535114;Wybrz. Gdyñskie;Lubiatów;pomorskie;22-413
+Benon;Kochon;02.03.1994;908409548;ul. ¯dzieb³y-Danowskiego Dominika;G³ojsce;dolnoœl¹skie;05-462
+Nestor;Krzywka;29.05.1970;106758357;ul. Czackiego Tadeusza;Zielonczyn;pomorskie;46-331
+Wyszomir;Lilienthal;03.06.2014;977221699;ul. Kmicica Andrzeja;Oœwiêcim;lubelskie;76-021
+Borys³aw;Daczos;29.03.1983;987818560;ul. Wodna;Warszawa;œl¹skie;16-506
+Trzebomys³;¬rodlewski;12.08.2014;568575841;ul. Piêkna;Mierzanowice;³ódzkie;05-071
+Sawin;B¹ca;13.01.1977;277433327;ul. Chwistka Leona;Jakubowice;lubelskie;99-322
+¯elis³aw;Sk³adawa;01.09.1975;473173493;ul. Sk³adowa;Inowroc³aw;zachodniopomorskie;05-140
+Ziemis³aw;Hohenauer;17.10.1959;614348545;ul. Wybickiego Józefa;Miko³ów;mazowieckie;90-456
+Leopard;Durdun;04.12.1997;991702504;ul. Sadowa;Strzak³y;lubelskie;26-606
+Œwiatozar;Rzucipko;13.03.2003;481262335;ul. S³upecka;Wydrza;œl¹skie;37-310
+Cieszybor;Nirschl;31.05.1970;456507849;ul. Curie-Sk³odowskiej Marii;P³ock;mazowieckie;44-190
+Dorian;Jekielaszek;12.08.1991;461597684;ul. Jarzynowa;£abêdzie;podkarpackie;03-302
+£ucjusz;Bo³sonowska;13.01.1981;612552872;ul. Œwiêtokrzyska;Jas³o;wielkopolskie;87-809
+Charyzjusz;Kedosz;16.09.1990;275562077;ul. Pró¿na;Zagrzewo;warmiñsko-mazurskie;64-920
+W³odzimierz;Polety³³o;07.04.1950;836468692;ul. Szczepankowo;Gorzyce;pomorskie;63-210
+Cyriak;Wargoœ;05.11.2017;913562109;ul. Jasna;Zadory;³ódzkie;06-126
+Zorian;Gróbka;20.09.1974;545415188;ul. Bronowska;Lasocice;lubelskie;73-110
+Nosis³aw;Korpiela;22.09.2012;133136759;ul. Krótka;Inowroc³aw;³ódzkie;43-109
+Adalbert;Krunke;31.07.2006;798730495;ul. Prusa Boles³awa;Warszawa;dolnoœl¹skie;72-342
+Auksencjusz;Liportowicz;14.05.1995;968342219;ul. Króla Jana Kazimierza;Kliniska Wielkie;³ódzkie;30-693
+Taras;Kapturczak;20.02.1993;567090509;ul. Kujawska;Jastrzêbie;lubuskie;60-193
+Jacenty;Gandzierowska;01.10.1961;814076091;ul. Terebelska;D¹bie Kujawskie;œl¹skie;71-796
+Rainer;Stomsiek;04.02.1983;545663232;ul. Vinci Leonarda Da;Boguszyce;dolnoœl¹skie;31-518
