@@ -27,7 +27,7 @@ conference_day_bookings.each do |booking|
     WHERE we.fk_conference_day_id = #{booking['fk_conference_day_id']}
     GROUP BY we.id, we.start_time, we.end_time, w.participants_limit
     ")
-    #workshops.each {}
+    workshops.each {}
     n_of_w = workshops.count
     next if n_of_w < 1
     to_reserve = rand(1...participants.length)
@@ -36,7 +36,7 @@ conference_day_bookings.each do |booking|
 
     workshops.each do |w|
         to_res = [per_w, w['seats_left']].min
-        w_booking_id = client.execute("INSERT INTO workshop_bookings (fk_workshop_entity_id, fk_conference_day_booking_id, reserved_seats) VALUES (#{w['id']}, #{booking['id']}, #{to_res})").insert
+        w_booking_id = client.execute("INSERT INTO workshop_bookings (fk_workshop_entity_id, fk_conference_day_booking_id, reserved_seats, cancelled) VALUES (#{w['id']}, #{booking['id']}, #{to_res}, 0)").insert
         to_res.times do
             client.execute("INSERT INTO workshop_participants (fk_workshop_booking_id, fk_conference_day_participant_id) VALUES (#{w_booking_id}, #{participants[participants_i]})").insert
             participants_i += 1

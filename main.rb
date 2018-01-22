@@ -3,6 +3,7 @@ require_relative "clients.rb"
 
 client = Conn.new.client
 client.execute("EXEC sp_msforeachtable 'ALTER TABLE ? NOCHECK CONSTRAINT all'").do
+client.execute("EXEC sp_msforeachtable 'ALTER TABLE ? DISABLE TRIGGER all'").do
 client.close
 require_relative "students.rb"
 require_relative "companies.rb"
@@ -14,6 +15,7 @@ require_relative "workshop_bookings.rb"
 
 client = Conn.new.client
 client.execute("EXEC sp_msforeachtable 'ALTER TABLE ? WITH CHECK CHECK CONSTRAINT all'").do
+client.execute("EXEC sp_msforeachtable 'ALTER TABLE ? ENABLE TRIGGER all'").do
 client.close
 
 
