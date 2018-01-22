@@ -38,7 +38,7 @@ conference_days.each do |conf|
             break 
         end
         booking_date = conf["start_date"] - rand(8..40)
-        payment_date = booking_date + rand(0..(conf["start_date"] - booking_date)) 
+        payment_date = booking_date + rand(1..(conf["start_date"] - booking_date)) 
         booking_date = Time.parse(booking_date.to_s) + rand(86400) 
         payment_date = Time.parse(payment_date.to_s) + rand(86400)
         booking_date = booking_date.strftime("%Y-%m-%d %H:%M:%S")
