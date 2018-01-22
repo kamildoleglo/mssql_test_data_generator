@@ -71,4 +71,6 @@ conference_days.each do |conf|
     #puts "afterdo"
 end
 
+client.execute("UPDATE conference_day_bookings SET payment_date = booking_date WHERE payment_date < booking_date;").do
+
 client.close
